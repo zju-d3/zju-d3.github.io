@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-commerce | D3Lab</title>
+    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/e-commerce/</link>
+      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <description>E-commerce</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <title>E-commerce</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/e-commerce/</link>
+    </image>
+    
+    <item>
+      <title>电商导购场中用户浏览行为意图预测</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_7/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_7/</guid>
+      <description>&lt;p&gt;E-commerce, Product recommendation page, Intent prediction, Interest Analysis&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;用户行为数据一直是电商平台决策和提升体验的关键，尤其是在预测用户行为意图时。如今，随着推荐系统的普及，电商导购场(PRP)在电子商务平台中发挥着越来越重要的作用。然而，过去关于跨电子商务平台预测用户行为意图的研究可能不适用于用户具有不同特征的电商导购场。本研究对电商导购场的用户浏览行为意图进行了研究和预测。收集和处理了电商导购场的大量用户数据，并建立了相应的数据集。在此基础上，提出了一种用户兴趣分析方法，并对五种浏览意图预测模型进行了应用和比较。该方法区分了不同浏览兴趣程度的用户，模型能更好地预测用户在不同兴趣群体中的浏览行为意图。在大规模数据集上的验证实验表明，该方法能够较好地预测用户的浏览意图。我们探索人工智能（AI）的最新发展，使用预先训练好的语言模型（PLM）来微调3个模型，并总结出生物知识的关键词。&amp;ldquo;来源&amp;rdquo;、&amp;ldquo;好处 &amp;ldquo;和 &amp;ldquo;应用&amp;rdquo;。我们评估了这些关键词与生物知识的相关性，结果表明，该模型具有与人类相同的概括能力。基于这些关键词，我们构建了一个用于刺激BID构思的语义网络，提出了一个基于语义网络的构思算法，并开发了AsknatureNet。AsknatureNet可以实现解决方案驱动的模式BID和问题驱动的模式BID。每种模式都会产生3种不同程度的结果。通过两个案例研究，我们证明了将该系统用于解决方案驱动的模式BID和问题驱动的模式BID的有效性，并产生了解决问题和开放创新的新设计理念。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /TED3Lab-zh.github.io/media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_90ded84e83fdb18b7cf7d0bf258a0e13.webp 400w,
+               /TED3Lab-zh.github.io/media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_b6cf7780c5cb79821ddda234ff8b7d79.webp 760w,
+               /TED3Lab-zh.github.io/media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_90ded84e83fdb18b7cf7d0bf258a0e13.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;146&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhou Tingting | D3Lab</title>
+    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/zhou-tingting/</link>
+      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/zhou-tingting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhou Tingting</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <title>Zhou Tingting</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/zhou-tingting/</link>
+    </image>
+    
+    <item>
+      <title>UI Layers Group Detector: Grouping UI Layers via Text Fusion and Box Attention</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-4/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-4/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

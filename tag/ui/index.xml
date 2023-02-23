@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UI | D3Lab</title>
+    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/ui/</link>
+      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/ui/index.xml" rel="self" type="application/rss+xml" />
+    <description>UI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <title>UI</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/ui/</link>
+    </image>
+    
+    <item>
+      <title>UI设计稿智能检查与校正</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_3/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_3/</guid>
+      <description>&lt;p&gt;UI design lint, UI to code, multimodal feature fusion, object detection&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;UI设计稿零碎图层合并：Imgcook 是阿里巴巴旗下以各种设计稿图像 (Sketch/PSD/静态图片）为原材料烹饪的匠心大厨，通过智能化手段将各种原始设计稿一键生成可维护的 UI 视图代码和逻辑代码。在实际生产设计过程中，为了达到想要的视觉效果，设计师会使用多个零碎图层来表达一个UI组件。这种设计方式会对智能代码生成算法造成干扰，从而影响最终生成代码的质量。为了保证智能代码生成算法能够生成高质量的代码，亟需有着更高设计标准的设计稿，但这必定会增加设计师的工作成本。由此可见，一个用于检测设计稿中存在的零碎图层并将其自动合并为UI组件的智能检查工具，能够有效解决从设计稿为输入的代码生成质量低下的问题。传统的图层合并方法，通常采用人工辅助合并或一些基于启发式的检查规则来判断是否对这些图层进行合并。这类方法过于依赖设计师或开发者的判断，同时对大量图层进行筛选和判断也提高了工作时间成本。目前尚无方法，通过端到端的智能检测算法，自动筛选和合并碎片图层成为UI组件，来提高最终代码生成的质量。本项目与阿里巴巴智能化前端团队合作，致力于研究智能化端到端的图层合并方法。&lt;/p&gt;
+&lt;p&gt;UI设计稿图文同语义成组：随着移动应用程序的普及和发展，图形用户界面（GUI）有着巨大的开发需求。从UI设计稿自动生成UI代码极大地简化了开发流程。但是，设计稿中的嵌套层结构会影响生成代码的质量和可用性。现有的GUI自动化技术很少能检测和分组嵌套层以提高生成代码的可访问性。在本文中，我们提出了一种基于计算机视觉的方法UI Layers Grouper。它可以自动检测呈现相同语义含义的图像（即基本形状和视觉元素）和文本层。我们提出了两个组件，文本融合和框注意力机制，它们利用来自设计稿的文本信息作为先验组定位信息。我们构建了一个用于训练和测试的大规模 UI 数据集，并提出了一种数据增强方法来提高检测性能。实验表明，所提出的方法在层分组方面取得了不错的准确性。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /TED3Lab-zh.github.io/media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_9ded980b4a5bc6c0b35870890b568003.webp 400w,
+               /TED3Lab-zh.github.io/media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_320200b6f7b3845f8f4dbd128cbb0c05.webp 760w,
+               /TED3Lab-zh.github.io/media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_9ded980b4a5bc6c0b35870890b568003.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>电商平台中不同购物场景下的布局生成</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_2/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_2/</guid>
+      <description>&lt;p&gt;布局生成，深度生成模型，用户界面设计，商品展示页面&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;布局是移动购物应用程序的商品展示页面中至关重要的一部分。为了清楚、准确地传达消费者所需的商品信息，商品展示页面（Product Listing Pages, PLP）的布局设计通常由其购物场景驱动。在这项工作中，我们研究了针对不同场景的布局设计，并提出了一个设计空间来指导PLP的布局生成和评估。此外，我们还提出了一个布局生成模型，LayoutVQ-VAE，该模型以用户输入的布局应用场景和元素类别为约束，能够生成满足约束的高质量布局。LayoutVQ-VAE也可以应用于文档布局、杂志布局、手机UI布局等相关的设计任务中。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/project/project_2/Layout%20Generation%20for%20Various%20Scenarios%20in%20Mobile%20Shopping%20Apps.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

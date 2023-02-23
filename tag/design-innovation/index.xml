@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design innovation | D3Lab</title>
+    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/design-innovation/</link>
+      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/design-innovation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Design innovation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <title>Design innovation</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/design-innovation/</link>
+    </image>
+    
+    <item>
+      <title>维基智联：基于维基百科的创意激发语义网络</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_5/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_5/</guid>
+      <description>&lt;p&gt;Semantic network, Design innovation, Wikipedia, Data-driven design, Data-driven ,innovation&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;数据驱动的设计和创新是一个重新使用和提供有价值和有用信息的过程。然而，现有的用于设计创新的语义网络是建立在仅限于技术和科学信息的数据源上。此外，现有的研究只在统计学或语义学关系上建立语义网络的边缘，这不太可能充分利用这两类关系的好处，发现设计创新的隐性知识。因此，我们构建了WikiLink，一个基于维基百科的语义网络。在WikiLink中引入了融合了概念间统计学和语义学权重的组合权重，并开发了四种算法来激发新的想法。进行了评估实验，结果显示该网络的特点是对术语、关系和学科的高度覆盖，这证明了该网络的有效性和有用性。然后，一个演示和案例研究结果表明，WikiLink可以作为概念设计创新的想法生成工具。WikiLink的源代码和后台数据是开源的，供更多的用户探索和使用。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /TED3Lab-zh.github.io/media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_f75a847c0fbb640851c3c1f450a96d76.webp 400w,
+               /TED3Lab-zh.github.io/media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_165c867c97f947219768745f2ae65d47.webp 760w,
+               /TED3Lab-zh.github.io/media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_f75a847c0fbb640851c3c1f450a96d76.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;409&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /TED3Lab-zh.github.io/media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_c51e8b6e20cb3792c8388da997b84dce.webp 400w,
+               /TED3Lab-zh.github.io/media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_f1ad6b31ea975fea12975b2a231cecf6.webp 760w,
+               /TED3Lab-zh.github.io/media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_c51e8b6e20cb3792c8388da997b84dce.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;391&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>景千芝 | D3Lab</title>
+    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%99%AF%E5%8D%83%E8%8A%9D/</link>
+      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%99%AF%E5%8D%83%E8%8A%9D/index.xml" rel="self" type="application/rss+xml" />
+    <description>景千芝</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%99%AF%E5%8D%83%E8%8A%9D/avatar_hu575449f1b300f5d65d9af472f75cbe29_46387_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>景千芝</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%99%AF%E5%8D%83%E8%8A%9D/</link>
+    </image>
+    
+    <item>
+      <title>电商平台中不同购物场景下的布局生成</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_2/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_2/</guid>
+      <description>&lt;p&gt;布局生成，深度生成模型，用户界面设计，商品展示页面&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;布局是移动购物应用程序的商品展示页面中至关重要的一部分。为了清楚、准确地传达消费者所需的商品信息，商品展示页面（Product Listing Pages, PLP）的布局设计通常由其购物场景驱动。在这项工作中，我们研究了针对不同场景的布局设计，并提出了一个设计空间来指导PLP的布局生成和评估。此外，我们还提出了一个布局生成模型，LayoutVQ-VAE，该模型以用户输入的布局应用场景和元素类别为约束，能够生成满足约束的高质量布局。LayoutVQ-VAE也可以应用于文档布局、杂志布局、手机UI布局等相关的设计任务中。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/project/project_2/Layout%20Generation%20for%20Various%20Scenarios%20in%20Mobile%20Shopping%20Apps.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;</description>
+    </item>
+    
+    <item>
+      <title>Layout Generation for Various Scenarios in Mobile Shopping Applications</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-2/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-2/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>WikiLink: An Encyclopedia-Based Semantic Network for Design Creativity</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-2/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-2/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

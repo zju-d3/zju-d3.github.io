@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Childs | D3Lab</title>
+    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/peter-childs/</link>
+      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/peter-childs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Childs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <title>Peter Childs</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/peter-childs/</link>
+    </image>
+    
+    <item>
+      <title>The Creativity Diamond—A Framework to Aid Creativity</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-3/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-3/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
