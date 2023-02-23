@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>姜昭君 | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/</link>
+      <atom:link href="https://zju-d3.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/index.xml" rel="self" type="application/rss+xml" />
     <description>姜昭君</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/avatar_huf38e726fa062f41a33794c89098d0ce2_2635177_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://zju-d3.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/avatar_huf38e726fa062f41a33794c89098d0ce2_2635177_270x270_fill_q75_lanczos_center.jpg</url>
       <title>姜昭君</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/</link>
+      <link>https://zju-d3.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>宋天琪 | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%AE%8B%E5%A4%A9%E7%90%AA/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%AE%8B%E5%A4%A9%E7%90%AA/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/author/%E5%AE%8B%E5%A4%A9%E7%90%AA/</link>
+      <atom:link href="https://zju-d3.github.io/author/%E5%AE%8B%E5%A4%A9%E7%90%AA/index.xml" rel="self" type="application/rss+xml" />
     <description>宋天琪</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%AE%8B%E5%A4%A9%E7%90%AA/avatar_hu25e94c7ebb076cff5dd5b13843817fcd_2324_270x270_fill_lanczos_center_3.png</url>
+      <url>https://zju-d3.github.io/author/%E5%AE%8B%E5%A4%A9%E7%90%AA/avatar_hu25e94c7ebb076cff5dd5b13843817fcd_2324_270x270_fill_lanczos_center_3.png</url>
       <title>宋天琪</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%AE%8B%E5%A4%A9%E7%90%AA/</link>
+      <link>https://zju-d3.github.io/author/%E5%AE%8B%E5%A4%A9%E7%90%AA/</link>
     </image>
     
   </channel>

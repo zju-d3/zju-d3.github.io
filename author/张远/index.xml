@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>张远 | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%BC%A0%E8%BF%9C/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%BC%A0%E8%BF%9C/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/author/%E5%BC%A0%E8%BF%9C/</link>
+      <atom:link href="https://zju-d3.github.io/author/%E5%BC%A0%E8%BF%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>张远</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%BC%A0%E8%BF%9C/avatar_hu26eb889c4e855ee41a0fa9a3f846ac59_272464_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://zju-d3.github.io/author/%E5%BC%A0%E8%BF%9C/avatar_hu26eb889c4e855ee41a0fa9a3f846ac59_272464_270x270_fill_q75_lanczos_center.jpg</url>
       <title>张远</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%BC%A0%E8%BF%9C/</link>
+      <link>https://zju-d3.github.io/author/%E5%BC%A0%E8%BF%9C/</link>
     </image>
     
     <item>
       <title>基于结构化知识的仿生设计创意激发工具</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_6/</link>
+      <link>https://zju-d3.github.io/project/project_6/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_6/</guid>
+      <guid>https://zju-d3.github.io/project/project_6/</guid>
       <description>&lt;p&gt;Bio-inspired design, Design ideation, Information extraction&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;经过数百万年的进化，自然系统中的许多优秀的生物策略可以被利用到一种新的类比设计形式中，即生物启发设计（BID）。尽管BID作为一种设计方法已被证明是有益的，但在生物学和工程学之间存在着差距，因为绝大多数的生物知识都是非结构化的。这种非结构化的生物知识通常以大段的形式呈现。设计者很难快速获取和理解非结构化生物知识中的关键信息。为了解决这个问题，我们提出了一种结构化生物知识的方法，并构建了AsknatureNet：一个基于结构化知识的仿生设计创意激发工具。&lt;/p&gt;
@@ -39,10 +39,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_70e177ab67fc5c7e3e6e308480ceac82.webp 400w,
-               /TED3Lab-zh.github.io/media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_5b3c8251c8362b6bc80a8ba81c126f72.webp 760w,
-               /TED3Lab-zh.github.io/media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_70e177ab67fc5c7e3e6e308480ceac82.webp&#34;
+               /media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_70e177ab67fc5c7e3e6e308480ceac82.webp 400w,
+               /media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_5b3c8251c8362b6bc80a8ba81c126f72.webp 760w,
+               /media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_70e177ab67fc5c7e3e6e308480ceac82.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

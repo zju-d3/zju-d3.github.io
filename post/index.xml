@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>消息 | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/post/</link>
+      <atom:link href="https://zju-d3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>消息</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>消息</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/</link>
+      <link>https://zju-d3.github.io/post/</link>
     </image>
     
     <item>
       <title>2023年2月 论文被AI EDAM接收</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-02-10/</link>
+      <link>https://zju-d3.github.io/post/23-02-10/</link>
       <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-02-10/</guid>
+      <guid>https://zju-d3.github.io/post/23-02-10/</guid>
       <description>&lt;br&gt;
 &lt;p&gt;论文“A study of the methods for evaluating machine generated images containing combinational creativity”获得Artificial Intelligence for Engineering Design, Analysis and Manufacturing （AIEDAM）期刊的接收&lt;/p&gt;
 </description>
@@ -24,27 +24,27 @@
     
     <item>
       <title>2023年2月 陈柳青老师参加了上合组织青年科学家论坛</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-02-06/</link>
+      <link>https://zju-d3.github.io/post/23-02-06/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-02-06/</guid>
+      <guid>https://zju-d3.github.io/post/23-02-06/</guid>
       <description>&lt;p&gt;2023年2月：陈柳青老师于2月6日参加了上合组织青年科学家论坛，发表了“Data-driven Design Creativity Engine”的学术演讲&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2023年1月 论文被CHI接收</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-01-11/</link>
+      <link>https://zju-d3.github.io/post/23-01-11/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-01-11/</guid>
+      <guid>https://zju-d3.github.io/post/23-01-11/</guid>
       <description>&lt;p&gt;论文“Layout Generation for Various Scenarios in Mobile Shopping Applications”获得了人机交互领域顶会CHI的接收&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>智能创意与元宇宙</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-01-03/</link>
+      <link>https://zju-d3.github.io/post/23-01-03/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-01-03/</guid>
+      <guid>https://zju-d3.github.io/post/23-01-03/</guid>
       <description>&lt;p&gt;讲座主题：《智能创意与元宇宙》&lt;/p&gt;
 &lt;p&gt;主讲人：陈柳青&lt;/p&gt;
 &lt;p&gt;讲座时间：2022年11月9日&lt;/p&gt;
@@ -73,10 +73,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_39c6a0bd248bb354d9edbfcd7b8f39c8.webp 400w,
-               /TED3Lab-zh.github.io/media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_52e3ebb563c91585307334f27fea1d93.webp 760w,
-               /TED3Lab-zh.github.io/media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_39c6a0bd248bb354d9edbfcd7b8f39c8.webp&#34;
+               /media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_39c6a0bd248bb354d9edbfcd7b8f39c8.webp 400w,
+               /media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_52e3ebb563c91585307334f27fea1d93.webp 760w,
+               /media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_39c6a0bd248bb354d9edbfcd7b8f39c8.webp&#34;
                width=&#34;760&#34;
                height=&#34;553&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -163,10 +163,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_3a8cd40ef27a3dc539b9b990511d046e.webp 400w,
-               /TED3Lab-zh.github.io/media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_21646b0c4a619b88797b97253a4a8dd9.webp 760w,
-               /TED3Lab-zh.github.io/media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_3a8cd40ef27a3dc539b9b990511d046e.webp&#34;
+               /media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_3a8cd40ef27a3dc539b9b990511d046e.webp 400w,
+               /media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_21646b0c4a619b88797b97253a4a8dd9.webp 760w,
+               /media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_3a8cd40ef27a3dc539b9b990511d046e.webp&#34;
                width=&#34;760&#34;
                height=&#34;413&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -179,9 +179,9 @@
     
     <item>
       <title>IN2022 Summer Summit</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/22-07-18-inlab2022-summit/</link>
+      <link>https://zju-d3.github.io/post/22-07-18-inlab2022-summit/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/22-07-18-inlab2022-summit/</guid>
+      <guid>https://zju-d3.github.io/post/22-07-18-inlab2022-summit/</guid>
       <description>&lt;p&gt;INLAB2022 暑假会议&lt;/p&gt;
 &lt;h2 id=&#34;陈柳青老师作关于工业软件发展前沿的分享报告&#34;&gt;陈柳青老师作关于《工业软件发展前沿》的分享报告&lt;/h2&gt;
 &lt;p&gt;
@@ -203,10 +203,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/post/22-07-18/1_hu7a0fcfbc72c96cf48847040f6e3bbe2f_126619_5df8672c1021053f3f5efa4f33fbd7d9.webp 400w,
-               /TED3Lab-zh.github.io/media/post/22-07-18/1_hu7a0fcfbc72c96cf48847040f6e3bbe2f_126619_ea6a1a8c0971fa2d8d1fde9049c9af28.webp 760w,
-               /TED3Lab-zh.github.io/media/post/22-07-18/1_hu7a0fcfbc72c96cf48847040f6e3bbe2f_126619_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/post/22-07-18/1_hu7a0fcfbc72c96cf48847040f6e3bbe2f_126619_5df8672c1021053f3f5efa4f33fbd7d9.webp&#34;
+               /media/post/22-07-18/1_hu7a0fcfbc72c96cf48847040f6e3bbe2f_126619_5df8672c1021053f3f5efa4f33fbd7d9.webp 400w,
+               /media/post/22-07-18/1_hu7a0fcfbc72c96cf48847040f6e3bbe2f_126619_ea6a1a8c0971fa2d8d1fde9049c9af28.webp 760w,
+               /media/post/22-07-18/1_hu7a0fcfbc72c96cf48847040f6e3bbe2f_126619_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/22-07-18/1_hu7a0fcfbc72c96cf48847040f6e3bbe2f_126619_5df8672c1021053f3f5efa4f33fbd7d9.webp&#34;
                width=&#34;760&#34;
                height=&#34;523&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -230,10 +230,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/post/22-07-18/2_hu51c71f2d377ed5ffd513d787e15f086e_248286_54f5eabdd439e49c798b118997f6de8c.webp 400w,
-               /TED3Lab-zh.github.io/media/post/22-07-18/2_hu51c71f2d377ed5ffd513d787e15f086e_248286_c3f7c67fa90bdd6ab5d0315c9f2370a1.webp 760w,
-               /TED3Lab-zh.github.io/media/post/22-07-18/2_hu51c71f2d377ed5ffd513d787e15f086e_248286_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/post/22-07-18/2_hu51c71f2d377ed5ffd513d787e15f086e_248286_54f5eabdd439e49c798b118997f6de8c.webp&#34;
+               /media/post/22-07-18/2_hu51c71f2d377ed5ffd513d787e15f086e_248286_54f5eabdd439e49c798b118997f6de8c.webp 400w,
+               /media/post/22-07-18/2_hu51c71f2d377ed5ffd513d787e15f086e_248286_c3f7c67fa90bdd6ab5d0315c9f2370a1.webp 760w,
+               /media/post/22-07-18/2_hu51c71f2d377ed5ffd513d787e15f086e_248286_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/22-07-18/2_hu51c71f2d377ed5ffd513d787e15f086e_248286_54f5eabdd439e49c798b118997f6de8c.webp&#34;
                width=&#34;760&#34;
                height=&#34;545&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -258,10 +258,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/post/22-07-18/3_hu5718799f94b4b965a40d74e5cf6c1c39_154487_dadc22474ec897f76eadd14ee5d19476.webp 400w,
-               /TED3Lab-zh.github.io/media/post/22-07-18/3_hu5718799f94b4b965a40d74e5cf6c1c39_154487_578f0dc56327aa3d338e0a6110dfc782.webp 760w,
-               /TED3Lab-zh.github.io/media/post/22-07-18/3_hu5718799f94b4b965a40d74e5cf6c1c39_154487_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/post/22-07-18/3_hu5718799f94b4b965a40d74e5cf6c1c39_154487_dadc22474ec897f76eadd14ee5d19476.webp&#34;
+               /media/post/22-07-18/3_hu5718799f94b4b965a40d74e5cf6c1c39_154487_dadc22474ec897f76eadd14ee5d19476.webp 400w,
+               /media/post/22-07-18/3_hu5718799f94b4b965a40d74e5cf6c1c39_154487_578f0dc56327aa3d338e0a6110dfc782.webp 760w,
+               /media/post/22-07-18/3_hu5718799f94b4b965a40d74e5cf6c1c39_154487_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/22-07-18/3_hu5718799f94b4b965a40d74e5cf6c1c39_154487_dadc22474ec897f76eadd14ee5d19476.webp&#34;
                width=&#34;760&#34;
                height=&#34;519&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -286,10 +286,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/post/22-07-18/4_huaff907aba7d21de2d2c1baec0251d772_311061_e96656fe74f30dc83c04454c67bfb390.webp 400w,
-               /TED3Lab-zh.github.io/media/post/22-07-18/4_huaff907aba7d21de2d2c1baec0251d772_311061_5e052f656a287b2aadec3193e87de1d3.webp 760w,
-               /TED3Lab-zh.github.io/media/post/22-07-18/4_huaff907aba7d21de2d2c1baec0251d772_311061_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/post/22-07-18/4_huaff907aba7d21de2d2c1baec0251d772_311061_e96656fe74f30dc83c04454c67bfb390.webp&#34;
+               /media/post/22-07-18/4_huaff907aba7d21de2d2c1baec0251d772_311061_e96656fe74f30dc83c04454c67bfb390.webp 400w,
+               /media/post/22-07-18/4_huaff907aba7d21de2d2c1baec0251d772_311061_5e052f656a287b2aadec3193e87de1d3.webp 760w,
+               /media/post/22-07-18/4_huaff907aba7d21de2d2c1baec0251d772_311061_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/22-07-18/4_huaff907aba7d21de2d2c1baec0251d772_311061_e96656fe74f30dc83c04454c67bfb390.webp&#34;
                width=&#34;760&#34;
                height=&#34;586&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -314,10 +314,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/post/22-07-18/5_hudd638535e08b3320478f68f49f7b9e1f_186387_1bf1c9a66ab2b447c4d99035cb4104d3.webp 400w,
-               /TED3Lab-zh.github.io/media/post/22-07-18/5_hudd638535e08b3320478f68f49f7b9e1f_186387_100c5dc68dd7ae8fb3ff6b23af2f1a34.webp 760w,
-               /TED3Lab-zh.github.io/media/post/22-07-18/5_hudd638535e08b3320478f68f49f7b9e1f_186387_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/post/22-07-18/5_hudd638535e08b3320478f68f49f7b9e1f_186387_1bf1c9a66ab2b447c4d99035cb4104d3.webp&#34;
+               /media/post/22-07-18/5_hudd638535e08b3320478f68f49f7b9e1f_186387_1bf1c9a66ab2b447c4d99035cb4104d3.webp 400w,
+               /media/post/22-07-18/5_hudd638535e08b3320478f68f49f7b9e1f_186387_100c5dc68dd7ae8fb3ff6b23af2f1a34.webp 760w,
+               /media/post/22-07-18/5_hudd638535e08b3320478f68f49f7b9e1f_186387_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/22-07-18/5_hudd638535e08b3320478f68f49f7b9e1f_186387_1bf1c9a66ab2b447c4d99035cb4104d3.webp&#34;
                width=&#34;760&#34;
                height=&#34;481&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -326,9 +326,9 @@
     
     <item>
       <title>杭州屏风山团建</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/22-10-16-team-building/</link>
+      <link>https://zju-d3.github.io/post/22-10-16-team-building/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/22-10-16-team-building/</guid>
+      <guid>https://zju-d3.github.io/post/22-10-16-team-building/</guid>
       <description>&lt;p&gt;实验室团建活动&lt;/p&gt;
 &lt;p&gt;2022年10月16日，周日，多云。正值秋高气爽，在陈老师的带领下，我们在杭州屏风山越野车营地进行了团建活动，这次也是两位软件学院的同学第一次从宁波来杭州与大部队相聚。上午十点钟，同学们分组打车到达屏风山越野车营地，大家上午玩了很刺激的越野摩托车，午饭的时候一起进行自助烧烤，下午玩了真人CS，回到营地后在营地里玩桌游、德州扑克、桌球、电玩等休闲娱乐的活动。&lt;/p&gt;
 </description>

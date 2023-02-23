@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>宋亚轩 | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%AE%8B%E4%BA%9A%E8%BD%A9/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%AE%8B%E4%BA%9A%E8%BD%A9/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/author/%E5%AE%8B%E4%BA%9A%E8%BD%A9/</link>
+      <atom:link href="https://zju-d3.github.io/author/%E5%AE%8B%E4%BA%9A%E8%BD%A9/index.xml" rel="self" type="application/rss+xml" />
     <description>宋亚轩</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%AE%8B%E4%BA%9A%E8%BD%A9/avatar_hueafc029b74c95a6590cbe2302651c3dd_1516401_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://zju-d3.github.io/author/%E5%AE%8B%E4%BA%9A%E8%BD%A9/avatar_hueafc029b74c95a6590cbe2302651c3dd_1516401_270x270_fill_q75_lanczos_center.jpg</url>
       <title>宋亚轩</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E5%AE%8B%E4%BA%9A%E8%BD%A9/</link>
+      <link>https://zju-d3.github.io/author/%E5%AE%8B%E4%BA%9A%E8%BD%A9/</link>
     </image>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>蔡泽斌 | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/</link>
+      <atom:link href="https://zju-d3.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>蔡泽斌</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/avatar_hud2a85f1f80b48aaa09eafeecc2dff412_10156157_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://zju-d3.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/avatar_hud2a85f1f80b48aaa09eafeecc2dff412_10156157_270x270_fill_q75_lanczos_center.jpg</url>
       <title>蔡泽斌</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/</link>
+      <link>https://zju-d3.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/</link>
     </image>
     
     <item>
       <title>基于结构化知识的仿生设计创意激发工具</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_6/</link>
+      <link>https://zju-d3.github.io/project/project_6/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_6/</guid>
+      <guid>https://zju-d3.github.io/project/project_6/</guid>
       <description>&lt;p&gt;Bio-inspired design, Design ideation, Information extraction&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;经过数百万年的进化，自然系统中的许多优秀的生物策略可以被利用到一种新的类比设计形式中，即生物启发设计（BID）。尽管BID作为一种设计方法已被证明是有益的，但在生物学和工程学之间存在着差距，因为绝大多数的生物知识都是非结构化的。这种非结构化的生物知识通常以大段的形式呈现。设计者很难快速获取和理解非结构化生物知识中的关键信息。为了解决这个问题，我们提出了一种结构化生物知识的方法，并构建了AsknatureNet：一个基于结构化知识的仿生设计创意激发工具。&lt;/p&gt;
@@ -39,10 +39,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_70e177ab67fc5c7e3e6e308480ceac82.webp 400w,
-               /TED3Lab-zh.github.io/media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_5b3c8251c8362b6bc80a8ba81c126f72.webp 760w,
-               /TED3Lab-zh.github.io/media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_70e177ab67fc5c7e3e6e308480ceac82.webp&#34;
+               /media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_70e177ab67fc5c7e3e6e308480ceac82.webp 400w,
+               /media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_5b3c8251c8362b6bc80a8ba81c126f72.webp 760w,
+               /media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/project_6_hu9352064ea92aef2c948827f29c01622a_241556_70e177ab67fc5c7e3e6e308480ceac82.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>电商导购场中用户浏览行为意图预测</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_7/</link>
+      <link>https://zju-d3.github.io/project/project_7/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_7/</guid>
+      <guid>https://zju-d3.github.io/project/project_7/</guid>
       <description>&lt;p&gt;E-commerce, Product recommendation page, Intent prediction, Interest Analysis&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;用户行为数据一直是电商平台决策和提升体验的关键，尤其是在预测用户行为意图时。如今，随着推荐系统的普及，电商导购场(PRP)在电子商务平台中发挥着越来越重要的作用。然而，过去关于跨电子商务平台预测用户行为意图的研究可能不适用于用户具有不同特征的电商导购场。本研究对电商导购场的用户浏览行为意图进行了研究和预测。收集和处理了电商导购场的大量用户数据，并建立了相应的数据集。在此基础上，提出了一种用户兴趣分析方法，并对五种浏览意图预测模型进行了应用和比较。该方法区分了不同浏览兴趣程度的用户，模型能更好地预测用户在不同兴趣群体中的浏览行为意图。在大规模数据集上的验证实验表明，该方法能够较好地预测用户的浏览意图。我们探索人工智能（AI）的最新发展，使用预先训练好的语言模型（PLM）来微调3个模型，并总结出生物知识的关键词。&amp;ldquo;来源&amp;rdquo;、&amp;ldquo;好处 &amp;ldquo;和 &amp;ldquo;应用&amp;rdquo;。我们评估了这些关键词与生物知识的相关性，结果表明，该模型具有与人类相同的概括能力。基于这些关键词，我们构建了一个用于刺激BID构思的语义网络，提出了一个基于语义网络的构思算法，并开发了AsknatureNet。AsknatureNet可以实现解决方案驱动的模式BID和问题驱动的模式BID。每种模式都会产生3种不同程度的结果。通过两个案例研究，我们证明了将该系统用于解决方案驱动的模式BID和问题驱动的模式BID的有效性，并产生了解决问题和开放创新的新设计理念。&lt;/p&gt;
@@ -76,10 +76,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_90ded84e83fdb18b7cf7d0bf258a0e13.webp 400w,
-               /TED3Lab-zh.github.io/media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_b6cf7780c5cb79821ddda234ff8b7d79.webp 760w,
-               /TED3Lab-zh.github.io/media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_90ded84e83fdb18b7cf7d0bf258a0e13.webp&#34;
+               /media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_90ded84e83fdb18b7cf7d0bf258a0e13.webp 400w,
+               /media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_b6cf7780c5cb79821ddda234ff8b7d79.webp 760w,
+               /media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/project_7_hu23f9a738b3f445247a93ef5c5b05aed9_217399_90ded84e83fdb18b7cf7d0bf258a0e13.webp&#34;
                width=&#34;760&#34;
                height=&#34;146&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>维基智联：基于维基百科的创意激发语义网络</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_5/</link>
+      <link>https://zju-d3.github.io/project/project_5/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_5/</guid>
+      <guid>https://zju-d3.github.io/project/project_5/</guid>
       <description>&lt;p&gt;Semantic network, Design innovation, Wikipedia, Data-driven design, Data-driven ,innovation&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;数据驱动的设计和创新是一个重新使用和提供有价值和有用信息的过程。然而，现有的用于设计创新的语义网络是建立在仅限于技术和科学信息的数据源上。此外，现有的研究只在统计学或语义学关系上建立语义网络的边缘，这不太可能充分利用这两类关系的好处，发现设计创新的隐性知识。因此，我们构建了WikiLink，一个基于维基百科的语义网络。在WikiLink中引入了融合了概念间统计学和语义学权重的组合权重，并开发了四种算法来激发新的想法。进行了评估实验，结果显示该网络的特点是对术语、关系和学科的高度覆盖，这证明了该网络的有效性和有用性。然后，一个演示和案例研究结果表明，WikiLink可以作为概念设计创新的想法生成工具。WikiLink的源代码和后台数据是开源的，供更多的用户探索和使用。&lt;/p&gt;
@@ -113,10 +113,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_f75a847c0fbb640851c3c1f450a96d76.webp 400w,
-               /TED3Lab-zh.github.io/media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_165c867c97f947219768745f2ae65d47.webp 760w,
-               /TED3Lab-zh.github.io/media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_f75a847c0fbb640851c3c1f450a96d76.webp&#34;
+               /media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_f75a847c0fbb640851c3c1f450a96d76.webp 400w,
+               /media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_165c867c97f947219768745f2ae65d47.webp 760w,
+               /media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/project_5_1_hu6902b2d5780de135a05348974029a600_220412_f75a847c0fbb640851c3c1f450a96d76.webp&#34;
                width=&#34;760&#34;
                height=&#34;409&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -140,10 +140,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_c51e8b6e20cb3792c8388da997b84dce.webp 400w,
-               /TED3Lab-zh.github.io/media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_f1ad6b31ea975fea12975b2a231cecf6.webp 760w,
-               /TED3Lab-zh.github.io/media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_c51e8b6e20cb3792c8388da997b84dce.webp&#34;
+               /media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_c51e8b6e20cb3792c8388da997b84dce.webp 400w,
+               /media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_f1ad6b31ea975fea12975b2a231cecf6.webp 760w,
+               /media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/project_5_2_hu732c0e914b6a87f351ee1d07fb385e6c_89035_c51e8b6e20cb3792c8388da997b84dce.webp&#34;
                width=&#34;760&#34;
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -152,9 +152,9 @@
     
     <item>
       <title>Browsing Behavioral Intent Prediction on Product Recommendation Pages of E-commerce Platform</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-3/</link>
+      <link>https://zju-d3.github.io/publication/conference-paper-3/</link>
       <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-3/</guid>
+      <guid>https://zju-d3.github.io/publication/conference-paper-3/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

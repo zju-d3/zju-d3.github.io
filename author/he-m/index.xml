@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>He M | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/he-m/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/he-m/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/author/he-m/</link>
+      <atom:link href="https://zju-d3.github.io/author/he-m/index.xml" rel="self" type="application/rss+xml" />
     <description>He M</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>He M</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/he-m/</link>
+      <link>https://zju-d3.github.io/author/he-m/</link>
     </image>
     
     <item>
       <title>Browsing Behavioral Intent Prediction on Product Recommendation Pages of E-commerce Platform</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-3/</link>
+      <link>https://zju-d3.github.io/publication/conference-paper-3/</link>
       <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-3/</guid>
+      <guid>https://zju-d3.github.io/publication/conference-paper-3/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

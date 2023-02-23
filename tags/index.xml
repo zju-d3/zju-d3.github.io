@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tags/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/tags/</link>
+      <atom:link href="https://zju-d3.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>Tags</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tags/</link>
+      <link>https://zju-d3.github.io/tags/</link>
     </image>
     
   </channel>

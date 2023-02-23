@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>朱允怀 | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%9C%B1%E5%85%81%E6%80%80/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%9C%B1%E5%85%81%E6%80%80/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/author/%E6%9C%B1%E5%85%81%E6%80%80/</link>
+      <atom:link href="https://zju-d3.github.io/author/%E6%9C%B1%E5%85%81%E6%80%80/index.xml" rel="self" type="application/rss+xml" />
     <description>朱允怀</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%9C%B1%E5%85%81%E6%80%80/avatar_hu25e94c7ebb076cff5dd5b13843817fcd_2324_270x270_fill_lanczos_center_3.png</url>
+      <url>https://zju-d3.github.io/author/%E6%9C%B1%E5%85%81%E6%80%80/avatar_hu25e94c7ebb076cff5dd5b13843817fcd_2324_270x270_fill_lanczos_center_3.png</url>
       <title>朱允怀</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%9C%B1%E5%85%81%E6%80%80/</link>
+      <link>https://zju-d3.github.io/author/%E6%9C%B1%E5%85%81%E6%80%80/</link>
     </image>
     
   </channel>

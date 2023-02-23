@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>课程项目展示 | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/courses-project/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/courses-project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/courses-project/</link>
+      <atom:link href="https://zju-d3.github.io/courses-project/index.xml" rel="self" type="application/rss+xml" />
     <description>课程项目展示</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>课程项目展示</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/courses-project/</link>
+      <link>https://zju-d3.github.io/courses-project/</link>
     </image>
     
   </channel>

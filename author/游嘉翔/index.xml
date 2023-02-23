@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>游嘉翔 | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%B8%B8%E5%98%89%E7%BF%94/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%B8%B8%E5%98%89%E7%BF%94/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/author/%E6%B8%B8%E5%98%89%E7%BF%94/</link>
+      <atom:link href="https://zju-d3.github.io/author/%E6%B8%B8%E5%98%89%E7%BF%94/index.xml" rel="self" type="application/rss+xml" />
     <description>游嘉翔</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%B8%B8%E5%98%89%E7%BF%94/avatar_huea4b88f70a87649b471626decbb9ef8d_227007_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://zju-d3.github.io/author/%E6%B8%B8%E5%98%89%E7%BF%94/avatar_huea4b88f70a87649b471626decbb9ef8d_227007_270x270_fill_q75_lanczos_center.jpg</url>
       <title>游嘉翔</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E6%B8%B8%E5%98%89%E7%BF%94/</link>
+      <link>https://zju-d3.github.io/author/%E6%B8%B8%E5%98%89%E7%BF%94/</link>
     </image>
     
   </channel>

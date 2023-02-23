@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>肖树鸿 | D3Lab</title>
-    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/</link>
-      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zju-d3.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/</link>
+      <atom:link href="https://zju-d3.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/index.xml" rel="self" type="application/rss+xml" />
     <description>肖树鸿</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/avatar_hu8a211cd6012b3ffe245216ad2c234b1a_1661809_270x270_fill_lanczos_center_3.png</url>
+      <url>https://zju-d3.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/avatar_hu8a211cd6012b3ffe245216ad2c234b1a_1661809_270x270_fill_lanczos_center_3.png</url>
       <title>肖树鸿</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/</link>
+      <link>https://zju-d3.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/</link>
     </image>
     
     <item>
       <title>UI设计稿智能检查与校正</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_3/</link>
+      <link>https://zju-d3.github.io/project/project_3/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_3/</guid>
+      <guid>https://zju-d3.github.io/project/project_3/</guid>
       <description>&lt;p&gt;UI design lint, UI to code, multimodal feature fusion, object detection&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;UI设计稿零碎图层合并：Imgcook 是阿里巴巴旗下以各种设计稿图像 (Sketch/PSD/静态图片）为原材料烹饪的匠心大厨，通过智能化手段将各种原始设计稿一键生成可维护的 UI 视图代码和逻辑代码。在实际生产设计过程中，为了达到想要的视觉效果，设计师会使用多个零碎图层来表达一个UI组件。这种设计方式会对智能代码生成算法造成干扰，从而影响最终生成代码的质量。为了保证智能代码生成算法能够生成高质量的代码，亟需有着更高设计标准的设计稿，但这必定会增加设计师的工作成本。由此可见，一个用于检测设计稿中存在的零碎图层并将其自动合并为UI组件的智能检查工具，能够有效解决从设计稿为输入的代码生成质量低下的问题。传统的图层合并方法，通常采用人工辅助合并或一些基于启发式的检查规则来判断是否对这些图层进行合并。这类方法过于依赖设计师或开发者的判断，同时对大量图层进行筛选和判断也提高了工作时间成本。目前尚无方法，通过端到端的智能检测算法，自动筛选和合并碎片图层成为UI组件，来提高最终代码生成的质量。本项目与阿里巴巴智能化前端团队合作，致力于研究智能化端到端的图层合并方法。&lt;/p&gt;
@@ -40,10 +40,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_9ded980b4a5bc6c0b35870890b568003.webp 400w,
-               /TED3Lab-zh.github.io/media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_320200b6f7b3845f8f4dbd128cbb0c05.webp 760w,
-               /TED3Lab-zh.github.io/media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_9ded980b4a5bc6c0b35870890b568003.webp&#34;
+               /media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_9ded980b4a5bc6c0b35870890b568003.webp 400w,
+               /media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_320200b6f7b3845f8f4dbd128cbb0c05.webp 760w,
+               /media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/project_3_hub2c971b0630d2fc05a78aa3ea5ec349c_1664053_9ded980b4a5bc6c0b35870890b568003.webp&#34;
                width=&#34;760&#34;
                height=&#34;371&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -52,9 +52,9 @@
     
     <item>
       <title>UI Layers Group Detector: Grouping UI Layers via Text Fusion and Box Attention</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-4/</link>
+      <link>https://zju-d3.github.io/publication/conference-paper-4/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-4/</guid>
+      <guid>https://zju-d3.github.io/publication/conference-paper-4/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
