@@ -5,12 +5,22 @@
     <link>https://zju-d3.github.io/post/</link>
       <atom:link href="https://zju-d3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>消息</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>消息</title>
       <link>https://zju-d3.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>2023年3月 论文被JCISE期刊接收</title>
+      <link>https://zju-d3.github.io/post/23-03-jcise/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/23-03-jcise/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;论文“A Comparison Study of Human and Machine Generated Creativity” 被 Journal of Computing and Information Science in Engineering (JCISE) 接收，作者包括 陈柳青、孙凌云、Ji Han&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2023年2月 论文被AI EDAM接收</title>
