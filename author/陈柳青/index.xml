@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/author/%E9%99%88%E6%9F%B3%E9%9D%92/</link>
       <atom:link href="https://zju-d3.github.io/author/%E9%99%88%E6%9F%B3%E9%9D%92/index.xml" rel="self" type="application/rss+xml" />
     <description>陈柳青</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/author/%E9%99%88%E6%9F%B3%E9%9D%92/avatar_hu0b7056f199e946b7c7909a84e1b679c1_6978_270x270_fill_q75_lanczos_center.jpg</url>
       <title>陈柳青</title>
@@ -300,9 +300,41 @@
     </item>
     
     <item>
-      <title>A study of the methods for evaluating machine generated images containing combinational creativity</title>
+      <title>A Comparison Study of Human and Machine Generated Creativity</title>
+      <link>https://zju-d3.github.io/publication/journal-article-4/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/journal-article-4/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>UI Layers Merger: Merging UI layers via Visual Learning and Boundary Prior</title>
+      <link>https://zju-d3.github.io/publication/journal-article-1/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/journal-article-1/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A study of the evaluation metrics for generative images containing combinational creativity</title>
       <link>https://zju-d3.github.io/publication/conference-paper-1/</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/publication/conference-paper-1/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -346,24 +378,9 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     </item>
     
     <item>
-      <title>WikiLink: An Encyclopedia-Based Semantic Network for Design Creativity</title>
-      <link>https://zju-d3.github.io/publication/journal-article-2/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/publication/journal-article-2/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
-    </item>
-    
-    <item>
       <title>A Study of the Exploratory Creativity Performance Between Machine and Human Designers</title>
       <link>https://zju-d3.github.io/publication/conference-paper-5/</link>
-      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/publication/conference-paper-5/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -377,12 +394,11 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     </item>
     
     <item>
-      <title>UI Layers Merger: Merging UI layers via Visual Learning and Boundary Prior</title>
-      <link>https://zju-d3.github.io/publication/journal-article-1/</link>
-      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/publication/journal-article-1/</guid>
-      <description>&lt;!-- 
-&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>WikiLink: An Encyclopedia-Based Semantic Network for Design Creativity</title>
+      <link>https://zju-d3.github.io/publication/journal-article-2/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/journal-article-2/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;

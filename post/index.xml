@@ -5,12 +5,22 @@
     <link>https://zju-d3.github.io/post/</link>
       <atom:link href="https://zju-d3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>消息</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>消息</title>
       <link>https://zju-d3.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>2023年4月 论文被ICED23会议接收</title>
+      <link>https://zju-d3.github.io/post/23-04-iced23/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/23-04-iced23/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;论文“A knowledge-based ideation approach for bio-inspired design”被设计学国际会议 ICED23 (24th International Conference on Engineering Design) 接收，主要贡献者包括 左浩宇、蔡泽斌和陈柳青，由本实验室和帝国理工学院合作完成。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2023年3月 论文被JCISE期刊接收</title>

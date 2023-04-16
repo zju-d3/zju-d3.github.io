@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/</link>
       <atom:link href="https://zju-d3.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>D3Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>D3Lab</title>
@@ -300,6 +300,64 @@
     </item>
     
     <item>
+      <title>2023年4月 论文被ICED23会议接收</title>
+      <link>https://zju-d3.github.io/post/23-04-iced23/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/23-04-iced23/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;论文“A knowledge-based ideation approach for bio-inspired design”被设计学国际会议 ICED23 (24th International Conference on Engineering Design) 接收，主要贡献者包括 左浩宇、蔡泽斌和陈柳青，由本实验室和帝国理工学院合作完成。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Comparison Study of Human and Machine Generated Creativity</title>
+      <link>https://zju-d3.github.io/publication/journal-article-4/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/journal-article-4/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>UI Layers Merger: Merging UI layers via Visual Learning and Boundary Prior</title>
+      <link>https://zju-d3.github.io/publication/journal-article-1/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/journal-article-1/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A study of the evaluation metrics for generative images containing combinational creativity</title>
+      <link>https://zju-d3.github.io/publication/conference-paper-1/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-paper-1/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2023年3月 论文被JCISE期刊接收</title>
       <link>https://zju-d3.github.io/post/23-03-jcise/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
@@ -325,22 +383,6 @@
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/post/23-02-06/</guid>
       <description>&lt;p&gt;2023年2月：陈柳青老师于2月6日参加了上合组织青年科学家论坛，发表了“Data-driven Design Creativity Engine”的学术演讲&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A study of the methods for evaluating machine generated images containing combinational creativity</title>
-      <link>https://zju-d3.github.io/publication/conference-paper-1/</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/publication/conference-paper-1/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -506,6 +548,21 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     </item>
     
     <item>
+      <title>Browsing Behavioral Intent Prediction on Product Recommendation Pages of E-commerce Platform</title>
+      <link>https://zju-d3.github.io/publication/conference-paper-3/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-paper-3/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
       <title>UI Layers Group Detector: Grouping UI Layers via Text Fusion and Box Attention</title>
       <link>https://zju-d3.github.io/publication/conference-paper-4/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -521,42 +578,27 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     </item>
     
     <item>
+      <title>A Study of the Exploratory Creativity Performance Between Machine and Human Designers</title>
+      <link>https://zju-d3.github.io/publication/conference-paper-5/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-paper-5/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
       <title>WikiLink: An Encyclopedia-Based Semantic Network for Design Creativity</title>
       <link>https://zju-d3.github.io/publication/journal-article-2/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/publication/journal-article-2/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
-    </item>
-    
-    <item>
-      <title>Browsing Behavioral Intent Prediction on Product Recommendation Pages of E-commerce Platform</title>
-      <link>https://zju-d3.github.io/publication/conference-paper-3/</link>
-      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/publication/conference-paper-3/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
-    </item>
-    
-    <item>
-      <title>A Study of the Exploratory Creativity Performance Between Machine and Human Designers</title>
-      <link>https://zju-d3.github.io/publication/conference-paper-5/</link>
-      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/publication/conference-paper-5/</guid>
-      <description>&lt;!-- 
-&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
@@ -721,22 +763,6 @@ Supplementary notes can be added here, including [code and math](https://wowchem
       <description>&lt;p&gt;实验室团建活动&lt;/p&gt;
 &lt;p&gt;2022年10月16日，周日，多云。正值秋高气爽，在陈老师的带领下，我们在杭州屏风山越野车营地进行了团建活动，这次也是两位软件学院的同学第一次从宁波来杭州与大部队相聚。上午十点钟，同学们分组打车到达屏风山越野车营地，大家上午玩了很刺激的越野摩托车，午饭的时候一起进行自助烧烤，下午玩了真人CS，回到营地后在营地里玩桌游、德州扑克、桌球、电玩等休闲娱乐的活动。&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>UI Layers Merger: Merging UI layers via Visual Learning and Boundary Prior</title>
-      <link>https://zju-d3.github.io/publication/journal-article-1/</link>
-      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/publication/journal-article-1/</guid>
-      <description>&lt;!-- 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
     </item>
     
     <item>

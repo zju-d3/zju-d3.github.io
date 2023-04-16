@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/author/%E9%99%88%E4%BA%91%E5%86%9C/</link>
       <atom:link href="https://zju-d3.github.io/author/%E9%99%88%E4%BA%91%E5%86%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>陈云农</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/author/%E9%99%88%E4%BA%91%E5%86%9C/avatar_hu661b566bf1c744f75bb3073c5c7ed764_123550_270x270_fill_q75_lanczos_center.jpg</url>
       <title>陈云农</title>
@@ -51,11 +51,12 @@
     </item>
     
     <item>
-      <title>UI Layers Group Detector: Grouping UI Layers via Text Fusion and Box Attention</title>
-      <link>https://zju-d3.github.io/publication/conference-paper-4/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/publication/conference-paper-4/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>UI Layers Merger: Merging UI layers via Visual Learning and Boundary Prior</title>
+      <link>https://zju-d3.github.io/publication/journal-article-1/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/journal-article-1/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
@@ -66,12 +67,11 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     </item>
     
     <item>
-      <title>UI Layers Merger: Merging UI layers via Visual Learning and Boundary Prior</title>
-      <link>https://zju-d3.github.io/publication/journal-article-1/</link>
-      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/publication/journal-article-1/</guid>
-      <description>&lt;!-- 
-&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>UI Layers Group Detector: Grouping UI Layers via Text Fusion and Box Attention</title>
+      <link>https://zju-d3.github.io/publication/conference-paper-4/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-paper-4/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
