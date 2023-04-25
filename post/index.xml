@@ -5,12 +5,71 @@
     <link>https://zju-d3.github.io/post/</link>
       <atom:link href="https://zju-d3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>消息</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>消息</title>
       <link>https://zju-d3.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>海宁校区暑期实践项目通知</title>
+      <link>https://zju-d3.github.io/post/23-04-25-haining/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/23-04-25-haining/</guid>
+      <description>&lt;p&gt;本实验室与ZJU-UIUC联合学院有着良好的合作关系，多次提供暑期科研实践机会。应联合学院邀请，今年的暑期实践项目正式开放报名，目前共开放了&lt;strong&gt;3个项目&lt;/strong&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;1-基于文本到三维模型的创意产品生成方法&#34;&gt;1. 基于文本到三维模型的创意产品生成方法&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;随着Diffusion模型和Nerf模型的成熟，基于文本输入的3D模型生成技术越来越受到研究者们的关注，例如Google的DreamFusion和Nvidia的Magic3D模型。&lt;/p&gt;
+&lt;p&gt;本项目旨在此类text-to-3D模型的基础上，研究创意产品的概念生成方法，&lt;/p&gt;
+&lt;p&gt;具体包括：创意文本的获得，text-to-3D模型研究，产品3D原型的审美与评价。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;2-基于大语言模型的仿生知识的迁移与推理方法&#34;&gt;2. 基于大语言模型的仿生知识的迁移与推理方法&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;仿生创新设计(Bio-inspired design)是一种重要的创新设计方法，通过提取、推理生物知识进行创新应用，如产品设计、建筑设计和艺术设计。&lt;/p&gt;
+&lt;p&gt;本项目基于AskNature数据库，利用GPT4模型的推理能力，通过prompt engineering和few-shot learning对模型进行微调，使它能进行仿生知识的扩展、迁移和推理。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;3-chatscratch-面向故事讲述的对话式图形化编程辅助工具&#34;&gt;3. chatScratch-面向故事讲述的对话式图形化编程辅助工具&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;图形化编程语言是K12教育阶段培养计算思维的有力工具，现有的图形化编程工具，如Scratch，通过模块化的方式实现编程并通过讲故事、制作动画和游戏的方式吸引儿童的兴趣。尽管如此，在学习过程中，儿童仍然会出现难以将想法转化为模块化代码的问题，在遇到编程问题时仍然需要老师的指导。&lt;/p&gt;
+&lt;p&gt;本项目为了解决这些问题，从故事讲述切入，利用类ChatGPT技术，通过引导式对话的方式，逐步将编程者的想法转化为编程过程，同时对遇到的编程问题予以支持，从而自主完成整个编程训练过程。&lt;/p&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;2022年暑期实践活动的精彩回顾&#34;&gt;2022年暑期实践活动的精彩回顾：&lt;/h3&gt;
+&lt;br&gt;
+2022年的暑期实践活动共围绕UI布局智能设计、UI设计稿的智能检查与校正和基于AskNature的仿生数据库的构建三个项目开展。在为期一个月的时间里，三个项目团队出色地完成了科研任务，并在最终的实习汇报中对研究成果进行了精彩的汇报。活动结束后，由实验室的陈柳青老师对每个团队进行了评奖和颁奖，并一起合影留恋。实习的部分成果也在实验室后期的论文、专利中有所体现。
+&lt;br&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;&lt;mark&gt;欢迎国际学院20-22级计算机背景的本科生积极申请&lt;/mark&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;hahahugoshortcode-s1-hbhb&#34;&gt;&lt;mark&gt;联系方式：陈柳青，chenlq@zju.edu.cn&lt;/mark&gt;&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/post/23-04-25/hn_hue4e2448c12b8bf7d3d7de4c4cb011e2b_21010739_69780a02a14578377d99782bbf4f9c34.webp 400w,
+               /media/post/23-04-25/hn_hue4e2448c12b8bf7d3d7de4c4cb011e2b_21010739_28f2c1f8d8697dc0087dc83551e1994b.webp 760w,
+               /media/post/23-04-25/hn_hue4e2448c12b8bf7d3d7de4c4cb011e2b_21010739_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-04-25/hn_hue4e2448c12b8bf7d3d7de4c4cb011e2b_21010739_69780a02a14578377d99782bbf4f9c34.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
     <item>
       <title>2023年4月 论文被ICED23会议接收</title>
