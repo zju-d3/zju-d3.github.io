@@ -5,12 +5,22 @@
     <link>https://zju-d3.github.io/post/</link>
       <atom:link href="https://zju-d3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>消息</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>消息</title>
       <link>https://zju-d3.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>2023年5月 两篇论文被设计领域国际会议IDETC/CIE 2023 接收</title>
+      <link>https://zju-d3.github.io/post/23-05-05-idetc/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/23-05-05-idetc/</guid>
+      <description>&lt;p&gt;两篇论文被设计领域国际会议IDETC/CIE 2023 (International Design Engineering Technical Conferences &amp;amp; Computers and Information in Engineering Conference)接收。&lt;/p&gt;
+&lt;p&gt;第一篇论文题目为 &lt;mark&gt;“Design and User Experience Evaluation of 3D Product Information in XR Shopping Application”&lt;/mark&gt;，主要贡献者为覃楷桐和陈柳青；&lt;/p&gt;
+&lt;p&gt;第二篇论文题目为 &lt;mark&gt;“A Task-Decomposed AI-Aided Approach for Generative Conceptual Design” &lt;mark&gt;，主要贡献者为王柏衡和陈柳青，由本实验室和帝国理工学院合作完成。&lt;/mark&gt;&lt;/mark&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>海宁校区暑期实践项目通知</title>
@@ -61,10 +71,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/post/23-04-25/hn_hue4e2448c12b8bf7d3d7de4c4cb011e2b_21010739_69780a02a14578377d99782bbf4f9c34.webp 400w,
+               /media/post/23-04-25/hn_hue4e2448c12b8bf7d3d7de4c4cb011e2b_21010739_14cfc2176bf6dd2f2810b3c3c103ab6f.webp 400w,
                /media/post/23-04-25/hn_hue4e2448c12b8bf7d3d7de4c4cb011e2b_21010739_28f2c1f8d8697dc0087dc83551e1994b.webp 760w,
                /media/post/23-04-25/hn_hue4e2448c12b8bf7d3d7de4c4cb011e2b_21010739_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://zju-d3.github.io/media/post/23-04-25/hn_hue4e2448c12b8bf7d3d7de4c4cb011e2b_21010739_69780a02a14578377d99782bbf4f9c34.webp&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-04-25/hn_hue4e2448c12b8bf7d3d7de4c4cb011e2b_21010739_14cfc2176bf6dd2f2810b3c3c103ab6f.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
