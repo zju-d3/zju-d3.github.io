@@ -5,12 +5,47 @@
     <link>https://zju-d3.github.io/post/</link>
       <atom:link href="https://zju-d3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>消息</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>消息</title>
       <link>https://zju-d3.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>新加坡科技设计大学Jianxi Luo教授访问D3 Lab</title>
+      <link>https://zju-d3.github.io/post/23-07-20-jianxiluo/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/23-07-20-jianxiluo/</guid>
+      <description>&lt;p&gt;7月20日，与D3 Lab有着良好合作关系的新加坡科技设计大学Jianxi Luo教授到访D3 Lab。通过学术讲座的形式，他介绍了Data-driven Innovation实验室的概况，以及实验室的科研成果情况。讲座结束后，罗教授与D3 Lab的陈柳青老师和多位研究生进行了学术交流，并期待未来更一步的学术合作和交流。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/post/23-07-20/230720_hu8a40aee63945cdb7d2697e208bf17080_1348762_6f19292673e839e155713b9ea7621dc4.webp 400w,
+               /media/post/23-07-20/230720_hu8a40aee63945cdb7d2697e208bf17080_1348762_bc06a5b8601a04028005373dde686a4b.webp 760w,
+               /media/post/23-07-20/230720_hu8a40aee63945cdb7d2697e208bf17080_1348762_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-07-20/230720_hu8a40aee63945cdb7d2697e208bf17080_1348762_6f19292673e839e155713b9ea7621dc4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
     <item>
       <title>D3 Lab暑期夏令营通知</title>
