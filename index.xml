@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/</link>
       <atom:link href="https://zju-d3.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>D3Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>D3Lab</title>
@@ -300,6 +300,14 @@
     </item>
     
     <item>
+      <title>2023年8月 论文被软件工程领域顶会ICSE接收</title>
+      <link>https://zju-d3.github.io/post/23-08-24-icse/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/23-08-24-icse/</guid>
+      <description>&lt;p&gt;论文“EGFE: End-to-end Grouping of Fragmented Elements in UI Designs  with Multimodal Learning”被软件工程领域顶会ICSE 2024（46th International Conference on Software Engineering，CCF-A）接收。论文的主要贡献者为 陈云农、肖树鸿，该研究受阿里巴巴（AZFT项目）资助和淘宝相关团队支持。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>D3Lab暑期集训及夏令营2023</title>
       <link>https://zju-d3.github.io/post/23-08-01-d3-summercamp/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
@@ -324,10 +332,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/post/23-08-01/1_huc5c5c8744964a740e5dafce78f875c99_4900254_3c6dee02ac0756d78d0f6637630e1ed1.webp 400w,
+               /media/post/23-08-01/1_huc5c5c8744964a740e5dafce78f875c99_4900254_91350f95f8e46bdb960f871d097498ab.webp 400w,
                /media/post/23-08-01/1_huc5c5c8744964a740e5dafce78f875c99_4900254_ae084ea7b8e5ff6eb3cda3280ac29552.webp 760w,
                /media/post/23-08-01/1_huc5c5c8744964a740e5dafce78f875c99_4900254_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://zju-d3.github.io/media/post/23-08-01/1_huc5c5c8744964a740e5dafce78f875c99_4900254_3c6dee02ac0756d78d0f6637630e1ed1.webp&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-08-01/1_huc5c5c8744964a740e5dafce78f875c99_4900254_91350f95f8e46bdb960f871d097498ab.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -352,10 +360,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/post/23-08-01/3_hu4ba372fc93aa26427d7944ccd2f788ee_197516_167496e2015d0a307ff2a91256504899.webp 400w,
+               /media/post/23-08-01/3_hu4ba372fc93aa26427d7944ccd2f788ee_197516_c0045d4f435ea347d8c5fe7ada1ceba4.webp 400w,
                /media/post/23-08-01/3_hu4ba372fc93aa26427d7944ccd2f788ee_197516_d6718cf6f6ca86af88d4e5f2eaaf737b.webp 760w,
                /media/post/23-08-01/3_hu4ba372fc93aa26427d7944ccd2f788ee_197516_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://zju-d3.github.io/media/post/23-08-01/3_hu4ba372fc93aa26427d7944ccd2f788ee_197516_167496e2015d0a307ff2a91256504899.webp&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-08-01/3_hu4ba372fc93aa26427d7944ccd2f788ee_197516_c0045d4f435ea347d8c5fe7ada1ceba4.webp&#34;
                width=&#34;760&#34;
                height=&#34;350&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -380,10 +388,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/post/23-08-01/2_huad0e2e8c69b5a2f512b19709fb238134_4266903_d465b5bcb0ed8f97e36e04717db7fe6f.webp 400w,
+               /media/post/23-08-01/2_huad0e2e8c69b5a2f512b19709fb238134_4266903_bebd36683c1008611ddd58ab31b8e7e2.webp 400w,
                /media/post/23-08-01/2_huad0e2e8c69b5a2f512b19709fb238134_4266903_d6f5a6a5e7392b3bc3ac1a326ddabb2c.webp 760w,
                /media/post/23-08-01/2_huad0e2e8c69b5a2f512b19709fb238134_4266903_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://zju-d3.github.io/media/post/23-08-01/2_huad0e2e8c69b5a2f512b19709fb238134_4266903_d465b5bcb0ed8f97e36e04717db7fe6f.webp&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-08-01/2_huad0e2e8c69b5a2f512b19709fb238134_4266903_bebd36683c1008611ddd58ab31b8e7e2.webp&#34;
                width=&#34;760&#34;
                height=&#34;295&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
