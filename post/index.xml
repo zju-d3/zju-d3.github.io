@@ -5,12 +5,47 @@
     <link>https://zju-d3.github.io/post/</link>
       <atom:link href="https://zju-d3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>消息</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>消息</title>
       <link>https://zju-d3.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>2023年9月 IDETC/CIE 2023 论文获得“最佳论文奖”</title>
+      <link>https://zju-d3.github.io/post/23-09-25-idetc/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/23-09-25-idetc/</guid>
+      <description>&lt;p&gt;D3Lab发表在设计学顶会IDETC/CIE2023的论文”Design and User Experience Evaluation of 3D Product Information in XR Shopping Application”获得“Best Paper Award（最佳论文奖）”。该论文一作为覃楷桐，通讯作者为陈柳青，该研究与阿里巴巴集团合作完成。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/post/23-09-25/1_hu0c644acc555e1edcb1eeba8418320989_36717_1a50b652c5fcddb15d76ad6e1cf6e5d9.webp 400w,
+               /media/post/23-09-25/1_hu0c644acc555e1edcb1eeba8418320989_36717_0a16c97731e05bc1845a81d03729b446.webp 760w,
+               /media/post/23-09-25/1_hu0c644acc555e1edcb1eeba8418320989_36717_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-09-25/1_hu0c644acc555e1edcb1eeba8418320989_36717_1a50b652c5fcddb15d76ad6e1cf6e5d9.webp&#34;
+               width=&#34;415&#34;
+               height=&#34;267&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
     <item>
       <title>2023年8月 论文被软件工程领域顶会ICSE接收</title>
