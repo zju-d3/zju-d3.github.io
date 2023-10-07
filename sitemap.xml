@@ -176,6 +176,10 @@
   <url>
     <loc>https://zju-d3.github.io/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://zju-d3.github.io/author/%E5%90%95%E7%8F%82/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/%E5%A4%8F%E5%A4%9A%E4%B8%BA/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://zju-d3.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/author/%E5%AE%8B%E4%BA%9A%E8%BD%A9/</loc><changefreq>weekly</changefreq></url>
@@ -192,4 +196,10 @@
   <url>
     <loc>https://zju-d3.github.io/course/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://zju-d3.github.io/courses-project/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://zju-d3.github.io/courses-project/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/%E9%83%91%E9%A2%96%E5%A9%B7/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/%E9%83%AD%E4%BD%B3/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/%E9%99%88%E6%96%87%E6%A5%B7/</loc><changefreq>weekly</changefreq></url></urlset>
