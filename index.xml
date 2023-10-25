@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/</link>
       <atom:link href="https://zju-d3.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>浙江大学-陈柳青-D3Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>浙江大学-陈柳青-D3Lab</title>
@@ -300,6 +300,41 @@
     </item>
     
     <item>
+      <title>2023年10月 智能交互创新赛一等奖</title>
+      <link>https://zju-d3.github.io/post/23-10-24-hci/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/23-10-24-hci/</guid>
+      <description>&lt;p&gt;由陈柳青老师指导的本科生团队（徐天予、俞心宇、刘晋玮）参加了“2023年中国高校计算机大赛-智能交互创新赛”，参赛作品为“ChatScratch:基于对话式AI的孩童辅助编程与创意激发系统“，在本月21日的全国总决赛中获得了一等奖的好成绩（奖金3万元）。此次参赛也得到了D3Lab研究生陈云农、肖树鸿的大力支持。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/post/23-10-24/231024_hu8e98edb938c4ff5afcfb615d41ffbfac_105669_9af45b7286f0203829f5d9743c0df4a8.webp 400w,
+               /media/post/23-10-24/231024_hu8e98edb938c4ff5afcfb615d41ffbfac_105669_da5b408e3ac3c7ddc0a18bea946bed08.webp 760w,
+               /media/post/23-10-24/231024_hu8e98edb938c4ff5afcfb615d41ffbfac_105669_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-10-24/231024_hu8e98edb938c4ff5afcfb615d41ffbfac_105669_9af45b7286f0203829f5d9743c0df4a8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;301&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;　　&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2023年10月 D3Lab秋季团建</title>
       <link>https://zju-d3.github.io/post/23-10-14-teambuilding/</link>
       <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
@@ -324,10 +359,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/post/23-10-14/231014_hu614523a8a3ba519b2934201a88726e44_3247162_eab42c2d9cb369b9646a04df6a7f1f49.webp 400w,
+               /media/post/23-10-14/231014_hu614523a8a3ba519b2934201a88726e44_3247162_22ce3745280e7888ccce068dc9b66a14.webp 400w,
                /media/post/23-10-14/231014_hu614523a8a3ba519b2934201a88726e44_3247162_5ca35c0a1645e32f1c958a9939c6a69f.webp 760w,
                /media/post/23-10-14/231014_hu614523a8a3ba519b2934201a88726e44_3247162_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://zju-d3.github.io/media/post/23-10-14/231014_hu614523a8a3ba519b2934201a88726e44_3247162_eab42c2d9cb369b9646a04df6a7f1f49.webp&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-10-14/231014_hu614523a8a3ba519b2934201a88726e44_3247162_22ce3745280e7888ccce068dc9b66a14.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
