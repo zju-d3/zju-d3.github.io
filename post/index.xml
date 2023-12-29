@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/post/</link>
       <atom:link href="https://zju-d3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>消息</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>消息</title>
@@ -13,11 +13,73 @@
     </image>
     
     <item>
+      <title>2023年12月 陈柳青老师在ICTD2023会议上作主题演讲</title>
+      <link>https://zju-d3.github.io/post/23-12-16-ictd/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/23-12-16-ictd/</guid>
+      <description>&lt;p&gt;12月16日，陈柳青老师参加了第5届科技设计国际会议（International Conference on Technology and Design, ICTD），并在大会上做了题为“AI大模型时代的创新设计”的主题演讲。演讲中，陈柳青老师提到了最新研究成果DesignGPT，并预计于2024年春季发布。此外，陈柳青老师的博士导师Peter Childs院士也来到了大会，并与陈柳青老师及其博士生们一起合影留恋。&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/post/23-12-16/231216-1_hu4c37558c73e08f8e7ed8b249c299ae95_15611_c1efba2d9b5e9482308873d68698f45f.webp 400w,
+               /media/post/23-12-16/231216-1_hu4c37558c73e08f8e7ed8b249c299ae95_15611_5d7c322bdeb894027468b74d1b3be418.webp 760w,
+               /media/post/23-12-16/231216-1_hu4c37558c73e08f8e7ed8b249c299ae95_15611_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-12-16/231216-1_hu4c37558c73e08f8e7ed8b249c299ae95_15611_c1efba2d9b5e9482308873d68698f45f.webp&#34;
+               width=&#34;263&#34;
+               height=&#34;175&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/post/23-12-16/231216-2_hu1a07d2a62b94ef40b75531c2139e68d9_1859096_4d44faa538c206094f854a0785adeb5c.webp 400w,
+               /media/post/23-12-16/231216-2_hu1a07d2a62b94ef40b75531c2139e68d9_1859096_b73700a87bacdb6f5df03d8e4c084eb5.webp 760w,
+               /media/post/23-12-16/231216-2_hu1a07d2a62b94ef40b75531c2139e68d9_1859096_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-12-16/231216-2_hu1a07d2a62b94ef40b75531c2139e68d9_1859096_4d44faa538c206094f854a0785adeb5c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>2023年11月 论文被期刊FITEE接收</title>
       <link>https://zju-d3.github.io/post/23-11-20-fitee/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/post/23-11-20-fitee/</guid>
-      <description>&lt;p&gt;论文“Iris: A multi-constrained graphic layout generation system”被SCI期刊Frontiers of Information Technology &amp;amp; Electronic Engineering (FITEE，中国科协T1级期刊)的AIGC特刊接收，该论文的主要作者为景千芝、曾怡欣，通讯作者为陈柳青。&lt;/p&gt;</description>
+      <description>&lt;p&gt;论文“Iris: A multi-constrained graphic layout generation system”被SCI期刊Frontiers of Information Technology &amp;amp; Electronic Engineering (FITEE，中国科协T1级期刊)的AIGC特刊接收，该论文的主要作者为景千芝、曾怡欣，通讯作者为陈柳青&lt;/p&gt;</description>
     </item>
     
     <item>
