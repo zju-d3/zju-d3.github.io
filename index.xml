@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/</link>
       <atom:link href="https://zju-d3.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>浙江大学-陈柳青-D3Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>浙江大学-陈柳青-D3Lab</title>
@@ -300,6 +300,27 @@
     </item>
     
     <item>
+      <title>2024年1月 论文被VR顶会IEEE VR 2024接收</title>
+      <link>https://zju-d3.github.io/post/24-01-26-ieeevr/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/24-01-26-ieeevr/</guid>
+      <description>&lt;p&gt;论文“Supporting Text Entry in Virtual Reality with Large Language Models”被虚拟现实唯一顶会 IEEE VR 2024（CCF-A）接收，该论文的主要贡献者为蔡愚、陈柳青。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024年1月 三篇论文被人机交互领域顶会CHI 2024接收</title>
+      <link>https://zju-d3.github.io/post/24-01-16-chi/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/24-01-16-chi/</guid>
+      <description>&lt;p&gt;由本实验室主导研究的三篇论文成果获得了人机交互领域顶会 CHI 2024（CCF-A）的接收，具体如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;BIDTrainer: An LLMs-driven Education Tool for Enhancing the Understanding and Reasoning in Bio-inspired Design，主要贡献者：姜昭君，夏多为，陈柳青&lt;/li&gt;
+&lt;li&gt;ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12，主要贡献者：肖树鸿，陈云农，陈柳青&lt;/li&gt;
+&lt;li&gt;EmoEden: Applying Generative Artificial Intelligence to Emotional Learning for Children with High-Function Autism，主要贡献者：唐怡琳，陈柳青&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
       <title>2023年12月 陈柳青老师在ICTD2023会议上作主题演讲</title>
       <link>https://zju-d3.github.io/post/23-12-16-ictd/</link>
       <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
@@ -324,10 +345,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/post/23-12-16/231216-1_huba45e4f582b592629e853d9ca0c36eaf_1681949_81db8c53e8752c34a148e95a304c9010.webp 400w,
-               /media/post/23-12-16/231216-1_huba45e4f582b592629e853d9ca0c36eaf_1681949_00c6b0ffcebc76a8d601ba7a8cf98173.webp 760w,
+               /media/post/23-12-16/231216-1_huba45e4f582b592629e853d9ca0c36eaf_1681949_80fbd2b9284c2fa8e8d5880271b53b9b.webp 400w,
+               /media/post/23-12-16/231216-1_huba45e4f582b592629e853d9ca0c36eaf_1681949_c35bcf8f626f80950c0503480c0c692a.webp 760w,
                /media/post/23-12-16/231216-1_huba45e4f582b592629e853d9ca0c36eaf_1681949_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://zju-d3.github.io/media/post/23-12-16/231216-1_huba45e4f582b592629e853d9ca0c36eaf_1681949_81db8c53e8752c34a148e95a304c9010.webp&#34;
+               src=&#34;https://zju-d3.github.io/media/post/23-12-16/231216-1_huba45e4f582b592629e853d9ca0c36eaf_1681949_80fbd2b9284c2fa8e8d5880271b53b9b.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
