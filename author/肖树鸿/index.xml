@@ -5,12 +5,97 @@
     <link>https://zju-d3.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/</link>
       <atom:link href="https://zju-d3.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/index.xml" rel="self" type="application/rss+xml" />
     <description>肖树鸿</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/avatar_hu8a211cd6012b3ffe245216ad2c234b1a_1661809_270x270_fill_lanczos_center_3.png</url>
       <title>肖树鸿</title>
       <link>https://zju-d3.github.io/author/%E8%82%96%E6%A0%91%E9%B8%BF/</link>
     </image>
+    
+    <item>
+      <title>An Artificial Intelligence Approach for Interpreting Creative Combinational Designs</title>
+      <link>https://zju-d3.github.io/project/artificial-intelligence-approach/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/artificial-intelligence-approach/</guid>
+      <description>&lt;p&gt;Combinational Creativity, Design Interpretation; Artificial Intelligence; Data-driven Design&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;本研究探讨了如何通过一种人工智能方法解释创意组合设计，特别是如何从设计的图像和文本描述中提取基础（base）和添加（additive）元素。通过提出一种启发式算法，结合计算机视觉和自然语言处理技术，研究有效地识别了组合创意设计中的基础和添加元素。算法的实施涵盖了多种包括判别式和生成式人工智能架构的方法。&lt;/p&gt;
+&lt;p&gt;在研究中使用了专门为探索设计组合创意而制作的数据集，该数据集包括 200 种基于组合创意的产品，包括它们的名称、图像和描述。这些产品精心挑选自著名设计竞赛的获奖作品。通过对这些样本的分析，研究识别出每个产品的基础和添加元素，并验证了这些元素的准确性。研究表明，最有效的方法在识别基础元素方面达到了 87.5%的准确率，而在添加元素方面达到了 80%的准确率。&lt;/p&gt;
+&lt;p&gt;此外，研究还对算法中的各个模块进行了单独分析，以评估它们在解释组合创意方面的表现。这包括使用图像识别模块来解释基础元素，以及使用实体识别和关系提取模块来从文本中提取和验证添加元素。研究中还探讨了算法在没有图像输入的情况下的表现，以及图像在解释组合创意中的作用。&lt;/p&gt;
+&lt;p&gt;总体来说，这项研究通过提供一种新的计算方法来解释组合创意设计，填补了数据驱动设计周期中的一个关键空白，增强了设计过程中创意过程的理解。这不仅有助于管理和重用设计知识，加速未来设计的产生，也为设计师提供了评估和细化他们的创意方法的工具。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChatScratch:An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12</title>
+      <link>https://zju-d3.github.io/project/chatscratch/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/chatscratch/</guid>
+      <description>&lt;p&gt;Visual Programming Learnning, Computational Thinking, Large Language Model&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;本文介绍了 ChatScratch 系统，这是一个针对 6 至 12 岁儿童自主学习视觉编程的 AI 增强工具。随着计算思维（CT）在 K-12 教育阶段的广泛推广，传统的 CT 平台，如 Scratch，面临着适应年幼学习者的挑战。这些学习者往往缺乏进行有效学习所需的基本技能，如阅读写作能力和手眼协调能力。此外，现有的教学实践通常依赖于教师的直接指导和严格的课程结构，这对于资源有限的地区的学生来说是一大障碍。&lt;/p&gt;
+&lt;p&gt;为了解决孩子们在自主使用 Scratch 时遇到的创意阻塞、创作自由度受限和缺乏编程指导等问题，我们开发了 ChatScratch。该系统利用交互式故事板和视觉提示帮助孩子们在项目规划阶段克服创意阻塞，通过集成的数字绘图和先进的图像生成技术提高创作的自由度，同时采用专门为 Scratch 设计的大型语言模型来提供编程过程中的专业指导。&lt;/p&gt;
+&lt;p&gt;通过对比实验研究表明，ChatScratch 较传统 Scratch 平台在促进儿童自主编程学习方面更为有效，能够帮助儿童创作出更高质量和具有个人意义的项目。具体来说，使用 ChatScratch 的儿童在视觉元素数量、创造性支持指数和专家评分等方面都显示出了明显的提高。这些结果突显了将生成性人工智能技术与创造性活动和编程技能教育相结合的潜力，为未来在教育技术领域的应用提供了宝贵的见解。同时，研究也识别出当前系统的一些局限，并提出了未来改进和深入研究的可能方向。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MindScratch:基于多模态生成模型的可视化编程支持工具</title>
+      <link>https://zju-d3.github.io/project/mindscratch/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/mindscratch/</guid>
+      <description>&lt;p&gt;Creativity Support Tool, Generative AI&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;编程作为培养计算思维技能的途径，已成为 K-12 教育的必要组成部分。鉴于编程的复杂性及其所需的精湛技能，现有研究已为年轻学习者提供了更易接近的编程支持工具。然而，通过我们对六位编程教育者的访谈发现，目前的编程支持工具在反映课堂学习目标、提供灵活高质量的编程指导以及支持学生创造力方面存在不足。在本文中，我们介绍了 MindScratch，这是一个基于多模态生成模型的可视化编程支持工具。MindScratch 利用交互式思维导图促进对编程过程的反思，运用针对 Scratch 精调的大型语言模型提供框架式编程支持，并集成多模态生成人工智能以增强创造力。我们的受试者内用户研究表明，MindScratch 能够支持与学习目标一致的创造性编程项目，提升代码质量和创造性，并改善编程学习体验。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prototype2code:End-to-end Front-end Code Generation From UI Design Prototypes</title>
+      <link>https://zju-d3.github.io/project/prototype2code/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/prototype2code/</guid>
+      <description>&lt;p&gt;UI Automation, Front-end Code Generation, Design Linting, Software Engineering&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;传统的 UI 到代码的转换技术通常依赖于设计原型的质量，而这些原型的质量参差不齐，常导致生成的代码结构混乱、不支持响应式布局等问题。本研究提出的 Prototype2Code 通过整合设计原型的语法检查，针对发现的元素碎片和感知分组进行优化，提高了代码的可读性和结构清晰度。在技术实现上，Prototype2Code 应用图神经网络和大型语言模型，自动从 UI 原型中识别和分类 UI 元素，如文本、图片和列表项，并基于这些信息构建 HTML 骨架代码和 CSS 样式代码。系统支持弹性盒子（flexbox）布局模型，确保生成的代码可以适配不同设备大小。&lt;/p&gt;
+&lt;p&gt;研究通过与商业代码生成平台 CodeFun 和基于 GPT-4v 的 Screenshot-to-code 系统的比较，展示了 Prototype2Code 在视觉相似度和代码质量上的优势。使用 SSIM、PSNR 和 MSE 等指标评估显示，Prototype2Code 生成的 UI 效果与设计原型的一致性最高，错误最少。此外，通过用户研究，Prototype2Code 在代码的可读性、可用性和可维护性方面均优于对比系统。Prototype2Code 系统成功地展示了在前端代码生成中整合原型整理和智能识别技术的潜力。未来工作将探索支持动态页面生成、增强与前端开发框架的兼容性，以及开发可交互的视觉平台以进一步提高工程师的操作自由度。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UI semantic component group detection:Grouping UI elements with similar semantics in mobile graphical user interface</title>
+      <link>https://zju-d3.github.io/project/uisemantic/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/uisemantic/</guid>
+      <description>&lt;p&gt;UI element grouping, UI object detection, UI-related software application, Transformer&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;在现代软件工程中，用户界面（UI）元素的有效组织和识别是增强应用程序交互性和功能性的关键。尽管现有的研究提出了多种 UI 元素分组的方法，但这些方法往往针对特定的软件工程任务，如 UI 测试和代码生成，而且这些分组在外观和功能上的多样性限制了其普遍适用性。&lt;/p&gt;
+&lt;p&gt;本文提出了一种新的 UI 语义组件分组方法，旨在通过深度学习技术提高 UI 元素分组的普适性和效率。该方法使用改进的 Deformable-DETR 模型，结合 UI 元素颜色表示和组分布学习，从而能够识别出具有相似语义的 UI 元素组。此外，所提出的 UISCGD 模型不仅提升了分组的检测性能，还能支持多种 UI 相关的软件工程任务，如感知组检索、代码结构优化及为屏幕阅读器生成可访问性数据。&lt;/p&gt;
+&lt;p&gt;通过在 1988 个不同移动应用的 GUI 截图上的训练与测试，UISCGD 模型在对象检测性能上达到了 77.5%的高精度，显著优于其他现有的 SOTA 模型。此外，通过一系列的实证研究，证实了该模型在感知组生成、UI 代码自动生成和生成屏幕阅读器的可访问性数据等方面的应用效果。UISCGD 模型的成功应用展示了深度学习技术在 UI 元素分组领域的巨大潜力。该研究不仅提高了 UI 元素分组的准确性和通用性，还为未来在不同平台和设备上的 UI 设计和开发提供了有力的技术支持。未来的工作将探索如何进一步提高模型的泛化能力，并扩展到更多的 UI 设计和开发场景中。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/ui_seg_hu6d7c10947a9d3f7a2b5706f7f9bfaa1c_21864_1a42aa512b9b7eab6ff03d710c08917f.webp 400w,
+               /media/ui_seg_hu6d7c10947a9d3f7a2b5706f7f9bfaa1c_21864_c04847a84e3608569bd83b7526a3d687.webp 760w,
+               /media/ui_seg_hu6d7c10947a9d3f7a2b5706f7f9bfaa1c_21864_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/ui_seg_hu6d7c10947a9d3f7a2b5706f7f9bfaa1c_21864_1a42aa512b9b7eab6ff03d710c08917f.webp&#34;
+               width=&#34;580&#34;
+               height=&#34;410&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
     <item>
       <title>UI设计稿智能检查与校正</title>

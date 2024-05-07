@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dsx | 浙江大学-陈柳青-D3Lab</title>
+    <link>https://zju-d3.github.io/author/dsx/</link>
+      <atom:link href="https://zju-d3.github.io/author/dsx/index.xml" rel="self" type="application/rss+xml" />
+    <description>dsx</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <title>dsx</title>
+      <link>https://zju-d3.github.io/author/dsx/</link>
+    </image>
+    
+    <item>
+      <title>TRIZGPT：一种大语言模型赋能的问题解决方法</title>
+      <link>https://zju-d3.github.io/project/trizgpt/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/trizgpt/</guid>
+      <description>&lt;p&gt;TRIZ 理论；大语言模型；问题解决方法；评估实验&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;TRIZ 理论，又称发明问题解决理论，是通过对大量不同领域的专利进行总结分析而提出的一种设计方法。TRIZ 提供了一系列问题解决工具和基本的问题解决框架，具有孕育创新解决方案的潜力。&lt;/p&gt;
+&lt;p&gt;然而， TRIZ 理论的复杂性和抽象性对于实际应用构成了挑战。要真正实现利用 TRIZ 提出科学有效的问题解决方案，不仅要求用户深入理解 TRIZ 知识，还需要具备一定的实践经验和跨学科知识，对用户的知识水平和推理能力提出了较高的要求。随着人工智能和深度学习的发展，大语言模型（Large Language Models, LLMs）广泛的知识基础和推理能力，为解决这些挑战提供了机会。&lt;/p&gt;
+&lt;p&gt;因此，本研究旨在设计和评估大语言模型增强的 TRIZ 问题解决方法。在具体研究过程中，我们首先广泛搜集并整理了 TRIZ 相关书籍和论文中的 TRIZ 应用案例，这不仅为后续实验建立了实证基础，也成为 TRIZ 研究社区宝贵的资源。随后，本研究提出了一个大语言模型赋能的 TRIZ 解决问题流程，采用分步推理和经过实验检验的提示词策略，能够利用大语言模型有效地将具体问题转化为 TRIZ 标准问题，最终输出针对发明问题的创新解决方案。最后，本研究开展了一个在机械工程领域的应用，以具体展示本方法的应用过程，同时进行了与原研究中提出的解决方案的对比。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLMs | 浙江大学-陈柳青-D3Lab</title>
+    <link>https://zju-d3.github.io/tag/llms/</link>
+      <atom:link href="https://zju-d3.github.io/tag/llms/index.xml" rel="self" type="application/rss+xml" />
+    <description>LLMs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <title>LLMs</title>
+      <link>https://zju-d3.github.io/tag/llms/</link>
+    </image>
+    
+    <item>
+      <title>AutoSpark：利用感性工学和生成式 AI 来支持汽车外观设计</title>
+      <link>https://zju-d3.github.io/project/autospark/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/autospark/</guid>
+      <description>&lt;p&gt;Product Appearance Design Ideation, Creativity Support Tool, Generative AI&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;快速创建符合消费者情感需求的新颖的汽车外观设计是一项具有挑战的任务。最近广受欢迎的文生图模型以其出色的图像生成能力在为设计师提供灵感方面表现出极大的潜力。然而，在实际应用中，设计师仍然会面临一些问题，包括设计师与 AI 对于情感需求的定义和理解存在偏差，设计意图难以表达，模型的生成过程和生成结果难以理解和控制。在这项工作中，我们提出了一个集成了感性工学和生成式人工智能的智能交互系统，AutoSpark。它帮助设计师创造满足消费者情感需求的汽车外观设计，通过图像-图像和文本-图像的比较来迭代设计，并通过设计思维地图来管理创意过程。&lt;/p&gt;
+&lt;p&gt;我们推出了 AutoSpark，这是一个集成了感性工程学和生成式人工智能的互动系统，为设计师创造满足情感需求的汽车外观设计提供创意支持。AutoSpark 采用由生成式人工智能和语义网络驱动的感性工程引擎来支持设计师进行情感词发散，情感词到设计特征的转译以及设计特征提取，从而帮助设计师实现情感需求对齐、设计意图的快速表达，并利用大语言模型根据提取出的设计特征进行提示词生成，帮助设计师快速利用文生图模型创建汽车图像。为了促进设计师对生成结果的理解和迭代，AutoSpark 利用 CLIP 模型辅助设计师对生成图像进行细粒度的相似性比较，利用 patch-inversion 算法可视化文本提示词和生成图像之间的相关性。AutoSpark 还在界面中提供了一个设计思维导图来帮助设计师高效管理设计过程。我们的用户研究表明，与基线系统相比，AutoSpark 能够有效地帮助设计师生成更符合消费者情感需求并且质量更高的汽车设计图像，同时也增强了设计师在人机共创过程中的体验。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChatScratch:An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12</title>
+      <link>https://zju-d3.github.io/project/chatscratch/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/chatscratch/</guid>
+      <description>&lt;p&gt;Visual Programming Learnning, Computational Thinking, Large Language Model&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;本文介绍了 ChatScratch 系统，这是一个针对 6 至 12 岁儿童自主学习视觉编程的 AI 增强工具。随着计算思维（CT）在 K-12 教育阶段的广泛推广，传统的 CT 平台，如 Scratch，面临着适应年幼学习者的挑战。这些学习者往往缺乏进行有效学习所需的基本技能，如阅读写作能力和手眼协调能力。此外，现有的教学实践通常依赖于教师的直接指导和严格的课程结构，这对于资源有限的地区的学生来说是一大障碍。&lt;/p&gt;
+&lt;p&gt;为了解决孩子们在自主使用 Scratch 时遇到的创意阻塞、创作自由度受限和缺乏编程指导等问题，我们开发了 ChatScratch。该系统利用交互式故事板和视觉提示帮助孩子们在项目规划阶段克服创意阻塞，通过集成的数字绘图和先进的图像生成技术提高创作的自由度，同时采用专门为 Scratch 设计的大型语言模型来提供编程过程中的专业指导。&lt;/p&gt;
+&lt;p&gt;通过对比实验研究表明，ChatScratch 较传统 Scratch 平台在促进儿童自主编程学习方面更为有效，能够帮助儿童创作出更高质量和具有个人意义的项目。具体来说，使用 ChatScratch 的儿童在视觉元素数量、创造性支持指数和专家评分等方面都显示出了明显的提高。这些结果突显了将生成性人工智能技术与创造性活动和编程技能教育相结合的潜力，为未来在教育技术领域的应用提供了宝贵的见解。同时，研究也识别出当前系统的一些局限，并提出了未来改进和深入研究的可能方向。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DesignFusion:生成模型支持的概念设计软件</title>
+      <link>https://zju-d3.github.io/project/designfusion/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/designfusion/</guid>
+      <description>&lt;p&gt;Product Appearance Design Ideation, Creativity Support Tool, Generative AI&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;概念设计是产品设计和开发的一个关键阶段，包括用户需求探索和知情解决方案生成。生成模型凭借其强大的内容生成能力被应用于概念设计，为设计师的构思提供支持。然而，生成模型的生成过程缺乏透明度，生成的解决方案也比较肤浅，这些都制约了它们在复杂的概念设计任务中的表现。在本研究中，我们首先介绍了一种将生成模型与经典设计理论相结合的概念设计生成方法。该方法基于设计过程和设计属性对概念设计任务进行分解，并使用 “谁、什么、哪里、何时、为什么、如何”（5W1H）方法、“功能行为结构”（FBS）模型和 “康成工程学”（Kansei Engineering）指导生成模型通过多步推理生成概念设计解决方案。然后，我们介绍了一个使用思维导图布局来可视化多步骤推理的互动系统，名为 DesignFusion。这使设计人员能够跟踪生成过程，并控制每个推理步骤的输入/输出。两项用户研究表明，我们的方法大大提高了生成的设计方案的质量，并丰富了设计师在人机共创中的体验。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MindScratch:基于多模态生成模型的可视化编程支持工具</title>
+      <link>https://zju-d3.github.io/project/bidtrainer/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/bidtrainer/</guid>
+      <description>&lt;p&gt;设计教育，仿生设计，知识理解，设计推理&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;仿生设计作为跨学科类比设计的一种重要形式，为设计领域提供了许多来自生物学的创新方案。为了使设计专业学生与新手设计师等能够高效地掌握仿生设计技巧，提升他们的跨学科创新能力，我们提出了一种由大语言模型驱动的仿生设计教育方法。该方法基于一个结构化的仿生设计案例知识库，通过交互式问答帮助学习者理解结构化的仿生设计案例，并指导他们推理出新的设计方案。此外，该方法还包括对学习者设计方案的对比评估，评估基于已有案例进行，旨在进一步提升学习者的设计水平。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MindScratch:基于多模态生成模型的可视化编程支持工具</title>
+      <link>https://zju-d3.github.io/project/mindscratch/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/mindscratch/</guid>
+      <description>&lt;p&gt;Creativity Support Tool, Generative AI&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;编程作为培养计算思维技能的途径，已成为 K-12 教育的必要组成部分。鉴于编程的复杂性及其所需的精湛技能，现有研究已为年轻学习者提供了更易接近的编程支持工具。然而，通过我们对六位编程教育者的访谈发现，目前的编程支持工具在反映课堂学习目标、提供灵活高质量的编程指导以及支持学生创造力方面存在不足。在本文中，我们介绍了 MindScratch，这是一个基于多模态生成模型的可视化编程支持工具。MindScratch 利用交互式思维导图促进对编程过程的反思，运用针对 Scratch 精调的大型语言模型提供框架式编程支持，并集成多模态生成人工智能以增强创造力。我们的受试者内用户研究表明，MindScratch 能够支持与学习目标一致的创造性编程项目，提升代码质量和创造性，并改善编程学习体验。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TRIZGPT：一种大语言模型赋能的问题解决方法</title>
+      <link>https://zju-d3.github.io/project/trizgpt/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/trizgpt/</guid>
+      <description>&lt;p&gt;TRIZ 理论；大语言模型；问题解决方法；评估实验&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;TRIZ 理论，又称发明问题解决理论，是通过对大量不同领域的专利进行总结分析而提出的一种设计方法。TRIZ 提供了一系列问题解决工具和基本的问题解决框架，具有孕育创新解决方案的潜力。&lt;/p&gt;
+&lt;p&gt;然而， TRIZ 理论的复杂性和抽象性对于实际应用构成了挑战。要真正实现利用 TRIZ 提出科学有效的问题解决方案，不仅要求用户深入理解 TRIZ 知识，还需要具备一定的实践经验和跨学科知识，对用户的知识水平和推理能力提出了较高的要求。随着人工智能和深度学习的发展，大语言模型（Large Language Models, LLMs）广泛的知识基础和推理能力，为解决这些挑战提供了机会。&lt;/p&gt;
+&lt;p&gt;因此，本研究旨在设计和评估大语言模型增强的 TRIZ 问题解决方法。在具体研究过程中，我们首先广泛搜集并整理了 TRIZ 相关书籍和论文中的 TRIZ 应用案例，这不仅为后续实验建立了实证基础，也成为 TRIZ 研究社区宝贵的资源。随后，本研究提出了一个大语言模型赋能的 TRIZ 解决问题流程，采用分步推理和经过实验检验的提示词策略，能够利用大语言模型有效地将具体问题转化为 TRIZ 标准问题，最终输出针对发明问题的创新解决方案。最后，本研究开展了一个在机械工程领域的应用，以具体展示本方法的应用过程，同时进行了与原研究中提出的解决方案的对比。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

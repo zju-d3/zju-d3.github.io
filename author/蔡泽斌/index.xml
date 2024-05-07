@@ -5,12 +5,22 @@
     <link>https://zju-d3.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/</link>
       <atom:link href="https://zju-d3.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>蔡泽斌</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/avatar_hud2a85f1f80b48aaa09eafeecc2dff412_10156157_270x270_fill_q75_lanczos_center.jpg</url>
       <title>蔡泽斌</title>
       <link>https://zju-d3.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/</link>
     </image>
+    
+    <item>
+      <title>MindScratch:基于多模态生成模型的可视化编程支持工具</title>
+      <link>https://zju-d3.github.io/project/bidtrainer/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/bidtrainer/</guid>
+      <description>&lt;p&gt;设计教育，仿生设计，知识理解，设计推理&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;仿生设计作为跨学科类比设计的一种重要形式，为设计领域提供了许多来自生物学的创新方案。为了使设计专业学生与新手设计师等能够高效地掌握仿生设计技巧，提升他们的跨学科创新能力，我们提出了一种由大语言模型驱动的仿生设计教育方法。该方法基于一个结构化的仿生设计案例知识库，通过交互式问答帮助学习者理解结构化的仿生设计案例，并指导他们推理出新的设计方案。此外，该方法还包括对学习者设计方案的对比评估，评估基于已有案例进行，旨在进一步提升学习者的设计水平。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>基于结构化知识的仿生设计创意激发工具</title>

@@ -5,12 +5,62 @@
     <link>https://zju-d3.github.io/tag/ui/</link>
       <atom:link href="https://zju-d3.github.io/tag/ui/index.xml" rel="self" type="application/rss+xml" />
     <description>UI</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>UI</title>
       <link>https://zju-d3.github.io/tag/ui/</link>
     </image>
+    
+    <item>
+      <title>Prototype2code:End-to-end Front-end Code Generation From UI Design Prototypes</title>
+      <link>https://zju-d3.github.io/project/prototype2code/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/prototype2code/</guid>
+      <description>&lt;p&gt;UI Automation, Front-end Code Generation, Design Linting, Software Engineering&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;传统的 UI 到代码的转换技术通常依赖于设计原型的质量，而这些原型的质量参差不齐，常导致生成的代码结构混乱、不支持响应式布局等问题。本研究提出的 Prototype2Code 通过整合设计原型的语法检查，针对发现的元素碎片和感知分组进行优化，提高了代码的可读性和结构清晰度。在技术实现上，Prototype2Code 应用图神经网络和大型语言模型，自动从 UI 原型中识别和分类 UI 元素，如文本、图片和列表项，并基于这些信息构建 HTML 骨架代码和 CSS 样式代码。系统支持弹性盒子（flexbox）布局模型，确保生成的代码可以适配不同设备大小。&lt;/p&gt;
+&lt;p&gt;研究通过与商业代码生成平台 CodeFun 和基于 GPT-4v 的 Screenshot-to-code 系统的比较，展示了 Prototype2Code 在视觉相似度和代码质量上的优势。使用 SSIM、PSNR 和 MSE 等指标评估显示，Prototype2Code 生成的 UI 效果与设计原型的一致性最高，错误最少。此外，通过用户研究，Prototype2Code 在代码的可读性、可用性和可维护性方面均优于对比系统。Prototype2Code 系统成功地展示了在前端代码生成中整合原型整理和智能识别技术的潜力。未来工作将探索支持动态页面生成、增强与前端开发框架的兼容性，以及开发可交互的视觉平台以进一步提高工程师的操作自由度。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UI semantic component group detection:Grouping UI elements with similar semantics in mobile graphical user interface</title>
+      <link>https://zju-d3.github.io/project/uisemantic/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/uisemantic/</guid>
+      <description>&lt;p&gt;UI element grouping, UI object detection, UI-related software application, Transformer&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;在现代软件工程中，用户界面（UI）元素的有效组织和识别是增强应用程序交互性和功能性的关键。尽管现有的研究提出了多种 UI 元素分组的方法，但这些方法往往针对特定的软件工程任务，如 UI 测试和代码生成，而且这些分组在外观和功能上的多样性限制了其普遍适用性。&lt;/p&gt;
+&lt;p&gt;本文提出了一种新的 UI 语义组件分组方法，旨在通过深度学习技术提高 UI 元素分组的普适性和效率。该方法使用改进的 Deformable-DETR 模型，结合 UI 元素颜色表示和组分布学习，从而能够识别出具有相似语义的 UI 元素组。此外，所提出的 UISCGD 模型不仅提升了分组的检测性能，还能支持多种 UI 相关的软件工程任务，如感知组检索、代码结构优化及为屏幕阅读器生成可访问性数据。&lt;/p&gt;
+&lt;p&gt;通过在 1988 个不同移动应用的 GUI 截图上的训练与测试，UISCGD 模型在对象检测性能上达到了 77.5%的高精度，显著优于其他现有的 SOTA 模型。此外，通过一系列的实证研究，证实了该模型在感知组生成、UI 代码自动生成和生成屏幕阅读器的可访问性数据等方面的应用效果。UISCGD 模型的成功应用展示了深度学习技术在 UI 元素分组领域的巨大潜力。该研究不仅提高了 UI 元素分组的准确性和通用性，还为未来在不同平台和设备上的 UI 设计和开发提供了有力的技术支持。未来的工作将探索如何进一步提高模型的泛化能力，并扩展到更多的 UI 设计和开发场景中。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/ui_seg_hu6d7c10947a9d3f7a2b5706f7f9bfaa1c_21864_1a42aa512b9b7eab6ff03d710c08917f.webp 400w,
+               /media/ui_seg_hu6d7c10947a9d3f7a2b5706f7f9bfaa1c_21864_c04847a84e3608569bd83b7526a3d687.webp 760w,
+               /media/ui_seg_hu6d7c10947a9d3f7a2b5706f7f9bfaa1c_21864_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://zju-d3.github.io/media/ui_seg_hu6d7c10947a9d3f7a2b5706f7f9bfaa1c_21864_1a42aa512b9b7eab6ff03d710c08917f.webp&#34;
+               width=&#34;580&#34;
+               height=&#34;410&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
     
     <item>
       <title>UI设计稿智能检查与校正</title>

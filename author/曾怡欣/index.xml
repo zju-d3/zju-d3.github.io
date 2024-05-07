@@ -5,12 +5,33 @@
     <link>https://zju-d3.github.io/author/%E6%9B%BE%E6%80%A1%E6%AC%A3/</link>
       <atom:link href="https://zju-d3.github.io/author/%E6%9B%BE%E6%80%A1%E6%AC%A3/index.xml" rel="self" type="application/rss+xml" />
     <description>曾怡欣</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/author/%E6%9B%BE%E6%80%A1%E6%AC%A3/avatar_hu196bf38983e616cbb11fc8fe3d959195_3753512_270x270_fill_lanczos_center_3.png</url>
       <title>曾怡欣</title>
       <link>https://zju-d3.github.io/author/%E6%9B%BE%E6%80%A1%E6%AC%A3/</link>
     </image>
+    
+    <item>
+      <title>AutoSpark：利用感性工学和生成式 AI 来支持汽车外观设计</title>
+      <link>https://zju-d3.github.io/project/autospark/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/autospark/</guid>
+      <description>&lt;p&gt;Product Appearance Design Ideation, Creativity Support Tool, Generative AI&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;快速创建符合消费者情感需求的新颖的汽车外观设计是一项具有挑战的任务。最近广受欢迎的文生图模型以其出色的图像生成能力在为设计师提供灵感方面表现出极大的潜力。然而，在实际应用中，设计师仍然会面临一些问题，包括设计师与 AI 对于情感需求的定义和理解存在偏差，设计意图难以表达，模型的生成过程和生成结果难以理解和控制。在这项工作中，我们提出了一个集成了感性工学和生成式人工智能的智能交互系统，AutoSpark。它帮助设计师创造满足消费者情感需求的汽车外观设计，通过图像-图像和文本-图像的比较来迭代设计，并通过设计思维地图来管理创意过程。&lt;/p&gt;
+&lt;p&gt;我们推出了 AutoSpark，这是一个集成了感性工程学和生成式人工智能的互动系统，为设计师创造满足情感需求的汽车外观设计提供创意支持。AutoSpark 采用由生成式人工智能和语义网络驱动的感性工程引擎来支持设计师进行情感词发散，情感词到设计特征的转译以及设计特征提取，从而帮助设计师实现情感需求对齐、设计意图的快速表达，并利用大语言模型根据提取出的设计特征进行提示词生成，帮助设计师快速利用文生图模型创建汽车图像。为了促进设计师对生成结果的理解和迭代，AutoSpark 利用 CLIP 模型辅助设计师对生成图像进行细粒度的相似性比较，利用 patch-inversion 算法可视化文本提示词和生成图像之间的相关性。AutoSpark 还在界面中提供了一个设计思维导图来帮助设计师高效管理设计过程。我们的用户研究表明，与基线系统相比，AutoSpark 能够有效地帮助设计师生成更符合消费者情感需求并且质量更高的汽车设计图像，同时也增强了设计师在人机共创过程中的体验。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DesignFusion:生成模型支持的概念设计软件</title>
+      <link>https://zju-d3.github.io/project/designfusion/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/designfusion/</guid>
+      <description>&lt;p&gt;Product Appearance Design Ideation, Creativity Support Tool, Generative AI&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;概念设计是产品设计和开发的一个关键阶段，包括用户需求探索和知情解决方案生成。生成模型凭借其强大的内容生成能力被应用于概念设计，为设计师的构思提供支持。然而，生成模型的生成过程缺乏透明度，生成的解决方案也比较肤浅，这些都制约了它们在复杂的概念设计任务中的表现。在本研究中，我们首先介绍了一种将生成模型与经典设计理论相结合的概念设计生成方法。该方法基于设计过程和设计属性对概念设计任务进行分解，并使用 “谁、什么、哪里、何时、为什么、如何”（5W1H）方法、“功能行为结构”（FBS）模型和 “康成工程学”（Kansei Engineering）指导生成模型通过多步推理生成概念设计解决方案。然后，我们介绍了一个使用思维导图布局来可视化多步骤推理的互动系统，名为 DesignFusion。这使设计人员能够跟踪生成过程，并控制每个推理步骤的输入/输出。两项用户研究表明，我们的方法大大提高了生成的设计方案的质量，并丰富了设计师在人机共创中的体验。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>电商平台中不同购物场景下的布局生成</title>
