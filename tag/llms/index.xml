@@ -5,12 +5,32 @@
     <link>https://zju-d3.github.io/tag/llms/</link>
       <atom:link href="https://zju-d3.github.io/tag/llms/index.xml" rel="self" type="application/rss+xml" />
     <description>LLMs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>LLMs</title>
       <link>https://zju-d3.github.io/tag/llms/</link>
     </image>
+    
+    <item>
+      <title>AskNatureNet：基于仿生设计知识的发散思维工具</title>
+      <link>https://zju-d3.github.io/project/asknaturenet/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/asknaturenet/</guid>
+      <description>&lt;p&gt;Bio-inspired design， Semantic network， Divergent thinking， Design creativity， Design ideation&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;发散性思维是在设计中探索多种可能的解决方案的过程，是在设计的早期阶段打破僵化、拓展设计思维的关键。类比设计促进发散思维，通过研究解决类似问题的解决方案，并利用这些知识在新的和不熟悉的情况下进行推理和解决问题。仿生设计是类比设计的一种形式，其知识为类比提供了多样化的来源，使其成为发散思维的潜在来源。在这项工作中，我们提出了一种新的方法，从编码、检索和映射三个后续阶段支持发散思维。具体地说，通过使用大语言模型(LLM)从仿生设计知识库中提取关键信息，将生物知识以三重形式编码。创建的三元组在语义网络中实现，以促进双向检索模式：问题驱动和解决方案驱动，以及针对发散思维的映射。该映射算法遵循发散思维的范式，分三步基于属性计算语义网络中节点间的语义相似度。该方法被实现为 AskNatureNet 1 工具，它通过在可视化的交互语义网络中检索和映射知识来支持发散思维。一个评估 AskNatureNet 有效性的构思案例研究表明，我们的工具能够有效地支持发散思维。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>在虚拟现实文本输入任务中整合基于大模型的文本预测</title>
+      <link>https://zju-d3.github.io/project/vrllms/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/vrllms/</guid>
+      <description>&lt;p&gt;Virtual Reality, Text Input, Text Prediction, Large Language Modeling&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;在虚拟现实中的文本输入常常面临效率和任务负荷的挑战。先前的研究探索了各种解决方案，包括专门的键盘布局、追踪的物理设备和无需手部操作的交互方式。然而，这些努力往往未能复制现实世界文本输入的效率，或引入了额外的空间和设备限制。一种可行的策略是寻求某种辅助性的文本输入方式，通过减少用户在文本输入过程中的实际击键次数来提升用户的文本输入效率和体验。本研究利用大型语言模型（LLMs）在上下文感知和文本预测方面的广泛能力，通过减少用户的手动击键来提高文本输入效率。根据英文文本自有的上下文依赖、语法关联等特性，本研究介绍了三种 LLM 辅助的文本输入方法：简化拼写、内容预测和关键词到句子生成。这三种方法分别与英文文本在单词、语法结构和句子层面的上下文可预测性相一致，且契合文本输入过程中的语言心智。我们在基于 Oculus 的 VR 原型上进行了用户实验以测试方案的有效性，实验场景涵盖了包括文本转录、对话和写作的多种文本输入任务。根据实验结果，三种辅助输入方法分别展示了 17.1%、43%和 42.9%的手动击键减少，转化为 16.6%、56.9%和 64.7%的效率提升。与手动打字相比，这些方法并没有增加手动更正的次数，同时显著减少了身体、心理和时间负荷，并提高了总体可用性。长期观察进一步揭示了用户使用这些 LLM 辅助方法的策略，表明用户对这些方法的熟练程度可以加强它们对文本输入效率的积极影响。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>AutoSpark：利用感性工学和生成式 AI 来支持汽车外观设计</title>
@@ -24,7 +44,17 @@
     </item>
     
     <item>
-      <title>ChatScratch:An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12</title>
+      <title>BIDTrainer：为设计领域提供了许多来自生物学的创新方案</title>
+      <link>https://zju-d3.github.io/project/bidtrainer/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/bidtrainer/</guid>
+      <description>&lt;p&gt;设计教育，仿生设计，知识理解，设计推理&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;仿生设计作为跨学科类比设计的一种重要形式，为设计领域提供了许多来自生物学的创新方案。为了使设计专业学生与新手设计师等能够高效地掌握仿生设计技巧，提升他们的跨学科创新能力，我们提出了一种由大语言模型驱动的仿生设计教育方法。该方法基于一个结构化的仿生设计案例知识库，通过交互式问答帮助学习者理解结构化的仿生设计案例，并指导他们推理出新的设计方案。此外，该方法还包括对学习者设计方案的对比评估，评估基于已有案例进行，旨在进一步提升学习者的设计水平。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ChatScratch：面向6至12岁儿童的自主视觉编程学习AI系统</title>
       <link>https://zju-d3.github.io/project/chatscratch/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/project/chatscratch/</guid>
@@ -36,7 +66,7 @@
     </item>
     
     <item>
-      <title>DesignFusion:生成模型支持的概念设计软件</title>
+      <title>DesignFusion：生成模型支持的概念设计软件</title>
       <link>https://zju-d3.github.io/project/designfusion/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/project/designfusion/</guid>
@@ -46,17 +76,7 @@
     </item>
     
     <item>
-      <title>MindScratch:基于多模态生成模型的可视化编程支持工具</title>
-      <link>https://zju-d3.github.io/project/bidtrainer/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/project/bidtrainer/</guid>
-      <description>&lt;p&gt;设计教育，仿生设计，知识理解，设计推理&lt;/p&gt;
-&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
-&lt;p&gt;仿生设计作为跨学科类比设计的一种重要形式，为设计领域提供了许多来自生物学的创新方案。为了使设计专业学生与新手设计师等能够高效地掌握仿生设计技巧，提升他们的跨学科创新能力，我们提出了一种由大语言模型驱动的仿生设计教育方法。该方法基于一个结构化的仿生设计案例知识库，通过交互式问答帮助学习者理解结构化的仿生设计案例，并指导他们推理出新的设计方案。此外，该方法还包括对学习者设计方案的对比评估，评估基于已有案例进行，旨在进一步提升学习者的设计水平。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>MindScratch:基于多模态生成模型的可视化编程支持工具</title>
+      <title>MindScratch：基于多模态生成模型的可视化编程支持工具</title>
       <link>https://zju-d3.github.io/project/mindscratch/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/project/mindscratch/</guid>

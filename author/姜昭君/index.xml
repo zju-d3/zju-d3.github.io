@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/</link>
       <atom:link href="https://zju-d3.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/index.xml" rel="self" type="application/rss+xml" />
     <description>姜昭君</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/avatar_huf38e726fa062f41a33794c89098d0ce2_2635177_270x270_fill_q75_lanczos_center.jpg</url>
       <title>姜昭君</title>
@@ -13,7 +13,17 @@
     </image>
     
     <item>
-      <title>MindScratch:基于多模态生成模型的可视化编程支持工具</title>
+      <title>AskNatureNet：基于仿生设计知识的发散思维工具</title>
+      <link>https://zju-d3.github.io/project/asknaturenet/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/asknaturenet/</guid>
+      <description>&lt;p&gt;Bio-inspired design， Semantic network， Divergent thinking， Design creativity， Design ideation&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;发散性思维是在设计中探索多种可能的解决方案的过程，是在设计的早期阶段打破僵化、拓展设计思维的关键。类比设计促进发散思维，通过研究解决类似问题的解决方案，并利用这些知识在新的和不熟悉的情况下进行推理和解决问题。仿生设计是类比设计的一种形式，其知识为类比提供了多样化的来源，使其成为发散思维的潜在来源。在这项工作中，我们提出了一种新的方法，从编码、检索和映射三个后续阶段支持发散思维。具体地说，通过使用大语言模型(LLM)从仿生设计知识库中提取关键信息，将生物知识以三重形式编码。创建的三元组在语义网络中实现，以促进双向检索模式：问题驱动和解决方案驱动，以及针对发散思维的映射。该映射算法遵循发散思维的范式，分三步基于属性计算语义网络中节点间的语义相似度。该方法被实现为 AskNatureNet 1 工具，它通过在可视化的交互语义网络中检索和映射知识来支持发散思维。一个评估 AskNatureNet 有效性的构思案例研究表明，我们的工具能够有效地支持发散思维。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BIDTrainer：为设计领域提供了许多来自生物学的创新方案</title>
       <link>https://zju-d3.github.io/project/bidtrainer/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/project/bidtrainer/</guid>
