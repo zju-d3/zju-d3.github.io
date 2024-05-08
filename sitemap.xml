@@ -4,7 +4,11 @@
   
   
   <url>
+    <loc>https://zju-d3.github.io/project/aisee/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://zju-d3.github.io/project/asknaturenet/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/project/emoeden/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/project/vrllms/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -44,6 +48,8 @@
   <url>
     <loc>https://zju-d3.github.io/author/dsx/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://zju-d3.github.io/tag/generative-ai/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://zju-d3.github.io/tag/llms/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/tags/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -51,6 +57,8 @@
     <loc>https://zju-d3.github.io/tag/vr/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/author/wry/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/%E5%90%95%E7%8F%82/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/author/%E5%94%90%E6%80%A1%E7%90%B3/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -64,11 +72,11 @@
   <url>
     <loc>https://zju-d3.github.io/author/%E8%94%A1%E6%B3%BD%E6%96%8C/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://zju-d3.github.io/author/%E9%99%88%E6%96%87%E6%A5%B7/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://zju-d3.github.io/author/%E9%99%88%E6%9F%B3%E9%9D%92/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/tag/ai/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/tag/generative-ai/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/tag/ui/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -236,8 +244,6 @@
   <url>
     <loc>https://zju-d3.github.io/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://zju-d3.github.io/author/%E5%90%95%E7%8F%82/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://zju-d3.github.io/author/%E5%AE%8B%E5%A4%A9%E7%90%AA/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/author/%E6%96%BD%E6%A5%9A%E5%AE%81/</loc><changefreq>weekly</changefreq></url>
@@ -254,6 +260,4 @@
   <url>
     <loc>https://zju-d3.github.io/author/%E9%83%91%E9%A2%96%E5%A9%B7/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://zju-d3.github.io/author/%E9%83%AD%E4%BD%B3/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/author/%E9%99%88%E6%96%87%E6%A5%B7/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://zju-d3.github.io/author/%E9%83%AD%E4%BD%B3/</loc><changefreq>weekly</changefreq></url></urlset>

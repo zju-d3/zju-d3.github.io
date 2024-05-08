@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>AISee：一款帮助视障和低视力用户理解社交网络服务上图片的工具</title>
+      <link>https://zju-d3.github.io/project/aisee/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/aisee/</guid>
+      <description>&lt;p&gt;图像理解辅助 社交网络服务 视障和低视力 多模态大模型&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;视障或低视力（BLV）个体经常在访问社交网络服务（SNS）上的图片时面临挑战，这阻碍了他们积极参与社交活动。现有工具提供的图片描述质量较低且未能满足 BLV 个体在不同情境下的多样化信息需求，从而妨碍了他们对图片内容的理解。为了解决这些问题，我们与 10 位 BLV 个体进行了形成性研究，深入探讨了他们在不同图片类别和情境下的具体信息需求，以及他们对图片描述和交互的偏好。基于这些发现，我们开发了 AISee，这是一款由人工智能驱动的工具，集成了三个功能：基于上下文和偏好的图片描述、优先关键点的图片探索和开放式视觉问题回答，以帮助 BLV 用户有效且轻松地理解 SNS 图片。管道评估展示了 AISee 在生成类人的图片描述、提供适当的情感分析以及根据 BLV 用户的兴趣优先考虑对象方面的有效性。用户研究进一步揭示 AISee 能够显著增强 BLV 用户对 SNS 图片的理解并收到了用户的积极评价。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>AskNatureNet：基于仿生设计知识的发散思维工具</title>
       <link>https://zju-d3.github.io/project/asknaturenet/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
@@ -20,6 +30,16 @@
       <description>&lt;p&gt;Bio-inspired design， Semantic network， Divergent thinking， Design creativity， Design ideation&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;发散性思维是在设计中探索多种可能的解决方案的过程，是在设计的早期阶段打破僵化、拓展设计思维的关键。类比设计促进发散思维，通过研究解决类似问题的解决方案，并利用这些知识在新的和不熟悉的情况下进行推理和解决问题。仿生设计是类比设计的一种形式，其知识为类比提供了多样化的来源，使其成为发散思维的潜在来源。在这项工作中，我们提出了一种新的方法，从编码、检索和映射三个后续阶段支持发散思维。具体地说，通过使用大语言模型(LLM)从仿生设计知识库中提取关键信息，将生物知识以三重形式编码。创建的三元组在语义网络中实现，以促进双向检索模式：问题驱动和解决方案驱动，以及针对发散思维的映射。该映射算法遵循发散思维的范式，分三步基于属性计算语义网络中节点间的语义相似度。该方法被实现为 AskNatureNet 1 工具，它通过在可视化的交互语义网络中检索和映射知识来支持发散思维。一个评估 AskNatureNet 有效性的构思案例研究表明，我们的工具能够有效地支持发散思维。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>EmoEden：应用生成人工智能支持高功能自闭症儿童的情感学习</title>
+      <link>https://zju-d3.github.io/project/emoeden/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/emoeden/</guid>
+      <description>&lt;p&gt;生成人工智能、情感学习、高功能自闭症、对话代理&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;高功能自闭症（HFA）儿童在情绪识别和表达方面存在挑战，导致情绪困扰和社交困难。现存为 HFA 儿童开发的会话代理无法动态生成个性化和上下文内容，限制了儿童的学习效果。最近先进的生成人工智能技术能够生成大量多样化和高质量的文本和视觉内容，为 HFA 儿童的情感学习提供了个性化帮助的机会。根据形成性研究的结果，我们集成了大型语言模型和文本到图像模型，开发了一款名为 EmoEden 的工具，为患有 HFA 的儿童提供情感训练支持。一项针对 6 名 HFA 儿童的为期 22 天的研究表明，EmoEden 有效地吸引了儿童，并提高了他们的情绪识别和表达能力。此外，我们还确定了应用生成式人工智能来帮助 HFA 儿童进行情感学习的优势和潜在风险。&lt;/p&gt;</description>
     </item>
     
     <item>
