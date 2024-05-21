@@ -5,12 +5,28 @@
     <link>https://zju-d3.github.io/post/</link>
       <atom:link href="https://zju-d3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>消息</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>消息</title>
       <link>https://zju-d3.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>2024年5月 两篇SCI论文获得接收</title>
+      <link>https://zju-d3.github.io/post/24-05-20/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/24-05-20/</guid>
+      <description>&lt;p&gt;由 D3 Lab 实验室主导研究的两篇 SCI 论文成果最近分别获得接收，具体如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;论文“Element-conditioned GAN for graphic layout generation”发表在期刊《Neurocomputing》（SCI 二区，人工智能 Top 期刊），主要贡献者：景千芝，周赟湛，陈柳青。合作单位：阿里巴巴。论文链接：&lt;a href=&#34;https://doi.org/10.1016/j.neucom.2024.127730&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.neucom.2024.127730&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;论文“DesignFusion: Integrating Generative Models for Conceptual Design Enrichment ”发表在设计类高水平期刊《Journal of Mechaical Design》（SCI 三区），主要贡献者：景千芝，曾怡欣，陈柳青。论文链接：&lt;a href=&#34;https://doi.org/10.1115/1.4065487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1115/1.4065487&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
     
     <item>
       <title>2024年4月 三篇论文被设计学国际会议DRS 2024接收</title>
