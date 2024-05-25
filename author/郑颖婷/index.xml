@@ -5,12 +5,22 @@
     <link>https://zju-d3.github.io/author/%E9%83%91%E9%A2%96%E5%A9%B7/</link>
       <atom:link href="https://zju-d3.github.io/author/%E9%83%91%E9%A2%96%E5%A9%B7/index.xml" rel="self" type="application/rss+xml" />
     <description>郑颖婷</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/author/%E9%83%91%E9%A2%96%E5%A9%B7/avatar_hu429ec3b1840bed9774abb21811da2d68_228828_270x270_fill_q75_lanczos_center.jpg</url>
       <title>郑颖婷</title>
       <link>https://zju-d3.github.io/author/%E9%83%91%E9%A2%96%E5%A9%B7/</link>
     </image>
+    
+    <item>
+      <title>AsknatureGPT：基于仿生设计知识的大语言模型驱动概念生成方法</title>
+      <link>https://zju-d3.github.io/project/asknaturegpt/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/asknaturegpt/</guid>
+      <description>&lt;p&gt;bio-inspired design; large language model; data-driven-design; concept generation&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;概念生成是工程设计过程中产生初始设计概念的早期阶段。通过应用仿生设计知识，设计师可以使用生物类比来驱动的仿生设计概念。解决方案驱动的仿生始于技术设计的特定生物系统的知识。因此，我们提出了一种基于大语言模型（LLM）的概念生成方法 AskNatureGPT，用于自动搜索问题、传递生物类比，并以自然语言的形式生成解决方案驱动的仿生设计概念。该工作确定了一个概念生成器和两个评估器，并从 LLM 中进行了微调。该方法通过消融研究、基于机器的定量评估和人类主观评估进行评估，并做了案例研究。结果表明，我们的方法可以生成高质量的解决方案驱动的仿生设计概念。&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
