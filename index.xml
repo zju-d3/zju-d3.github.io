@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/</link>
       <atom:link href="https://zju-d3.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>浙江大学-陈柳青-D3Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>浙江大学-陈柳青-D3Lab</title>
@@ -488,17 +488,31 @@
     </item>
     
     <item>
-      <title>2024年5月 两篇SCI论文获得接收</title>
+      <title>2024年6月 一篇SCI一区顶刊论文获得接收</title>
+      <link>https://zju-d3.github.io/post/24-06-01/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/24-06-01/</guid>
+      <description>&lt;p&gt;由 D3 Lab 实验室主导研究的论文成果“AskNatureNet: A divergent thinking tool based on bio-inspired design knowledge”发表在 SCI 一区顶刊《Advanced Engineering Informatics》，主要贡献者：左浩宇（帝国理工学院），蔡泽斌，陈柳青。论文链接：&lt;a href=&#34;https://doi.org/10.1016/j.aei.2024.102593&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.aei.2024.102593&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024年5月 四篇SCI论文获得接收</title>
       <link>https://zju-d3.github.io/post/24-05-20/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/post/24-05-20/</guid>
-      <description>&lt;p&gt;由 D3 Lab 实验室主导研究的两篇 SCI 论文成果最近分别获得接收，具体如下：&lt;/p&gt;
+      <description>&lt;p&gt;由 D3 Lab 实验室主导研究的四篇 SCI 论文成果最近分别获得接收，具体如下：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;论文“Element-conditioned GAN for graphic layout generation”发表在期刊《Neurocomputing》（SCI 二区，人工智能 Top 期刊），主要贡献者：景千芝，周赟湛，陈柳青。合作单位：阿里巴巴。论文链接：&lt;a href=&#34;https://doi.org/10.1016/j.neucom.2024.127730&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.neucom.2024.127730&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;论文“DesignFusion: Integrating Generative Models for Conceptual Design Enrichment ”发表在设计类高水平期刊《Journal of Mechaical Design》（SCI 三区），主要贡献者：景千芝，曾怡欣，陈柳青。论文链接：&lt;a href=&#34;https://doi.org/10.1115/1.4065487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1115/1.4065487&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;论文“A Foundation Model Enhanced Approach for Generative Design in Combinational Creativity”发表在设计工程领域顶刊《Journal of Engineering Design》（SCI 二区），主要贡献者：王柏衡（帝国理工学院），张远，陈柳青。论文链接：&lt;a href=&#34;https://doi.org/10.1080/09544828.2024.2356707&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/09544828.2024.2356707&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;论文“DesignFusion: Integrating Generative Models for Conceptual Design Enrichment ”发表在设计工程领域知名期刊《Journal of Mechaical Design》（SCI 三区），主要贡献者：景千芝，曾怡欣，陈柳青。论文链接：&lt;a href=&#34;https://doi.org/10.1115/1.4065487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1115/1.4065487&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;论文“Towards Controllable Generative Design: A Conceptual Design Generation Approach Leveraging the FBS Ontology and Large Language Models”发表在设计工程领域知名期刊《Journal of Mechanical Design》（SCI 三区），主要贡献者：王柏衡（帝国理工学院），陈柳青。论文链接：&lt;a href=&#34;https://doi.org/10.1115/1.4065562&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1115/1.4065562&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;</description>
     </item>
