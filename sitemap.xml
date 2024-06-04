@@ -48,11 +48,13 @@
   <url>
     <loc>https://zju-d3.github.io/project/project_1/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://zju-d3.github.io/post/24-06-05-summercamp/</loc><lastmod>2024-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/</loc><lastmod>2024-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/post/</loc><lastmod>2024-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://zju-d3.github.io/post/24-06-01/</loc><lastmod>2024-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/</loc><lastmod>2024-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/post/</loc><lastmod>2024-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/authors/</loc><lastmod>2024-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -266,6 +268,4 @@
   <url>
     <loc>https://zju-d3.github.io/course/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://zju-d3.github.io/courses-project/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/author/%E9%83%AD%E4%BD%B3/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://zju-d3.github.io/courses-project/</loc><changefreq>weekly</changefreq></url></urlset>
