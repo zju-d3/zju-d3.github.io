@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/author/%E8%A6%83%E6%A5%B7%E6%A1%90/</link>
       <atom:link href="https://zju-d3.github.io/author/%E8%A6%83%E6%A5%B7%E6%A1%90/index.xml" rel="self" type="application/rss+xml" />
     <description>覃楷桐</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/author/%E8%A6%83%E6%A5%B7%E6%A1%90/avatar_hu0c330f15b28e142bed22bf57daab06b2_4470039_270x270_fill_q75_lanczos_center.jpg</url>
       <title>覃楷桐</title>
@@ -83,6 +83,23 @@
   
 
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Design and User Experience Evaluation of 3D Product Information in XR Shopping Application</title>
+      <link>https://zju-d3.github.io/publication/conference-dtm2023qkt/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-dtm2023qkt/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>

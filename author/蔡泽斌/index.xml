@@ -25,21 +25,11 @@
     <item>
       <title>AskNatureKG：基于知识图谱用于仿生设计的知识检索和知识推理方法</title>
       <link>https://zju-d3.github.io/project/asknaturekg/</link>
-      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/project/asknaturekg/</guid>
       <description>&lt;p&gt;Bio-inspired design; knowledge graph; knowledge retrieval; knowledge reasoning; link prediction&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;仿生设计(BID)是一种从生物系统中提取原理来解决复杂现实世界问题的方法。虽然各种基于知识的工具已经为仿生设计提供了服务，但仿生设计中还没有探索知识图谱的检索和推理能力。我们提出了一种新的基于知识图谱的仿生设计方法，利用知识图谱的能力来支持仿生设计。在该方法中，定义了一个全面的本体，并将其应用于构建特定于仿生设计的知识图谱，从而实现了对丰富多样的生物知识的高效表示。该知识图谱通过高效的知识检索和推理来支持仿生设计。其中仿生设计中的检索是通过寻找生物系统和相关设计应用之间的潜在联系来完成的。而仿生设计的推理由链接预测模型支持，该模型遵循从生物系统到设计应用的映射设计过程。通过两个案例研究证明了该方法的有效性。第一个案例表明，我们的方法在检索相关生物学知识方面优于其他基准测试，第二个案例展示了链接预测模型如何帮助生成相关和鼓舞人心的设计想法。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>AskNatureNet：基于仿生设计知识的发散思维工具</title>
-      <link>https://zju-d3.github.io/project/asknaturenet/</link>
-      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/project/asknaturenet/</guid>
-      <description>&lt;p&gt;Bio-inspired design， Semantic network， Divergent thinking， Design creativity， Design ideation&lt;/p&gt;
-&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
-&lt;p&gt;发散性思维是在设计中探索多种可能的解决方案的过程，是在设计的早期阶段打破僵化、拓展设计思维的关键。类比设计促进发散思维，通过研究解决类似问题的解决方案，并利用这些知识在新的和不熟悉的情况下进行推理和解决问题。仿生设计是类比设计的一种形式，其知识为类比提供了多样化的来源，使其成为发散思维的潜在来源。在这项工作中，我们提出了一种新的方法，从编码、检索和映射三个后续阶段支持发散思维。具体地说，通过使用大语言模型(LLM)从仿生设计知识库中提取关键信息，将生物知识以三重形式编码。创建的三元组在语义网络中实现，以促进双向检索模式：问题驱动和解决方案驱动，以及针对发散思维的映射。该映射算法遵循发散思维的范式，分三步基于属性计算语义网络中节点间的语义相似度。该方法被实现为 AskNatureNet 1 工具，它通过在可视化的交互语义网络中检索和映射知识来支持发散思维。一个评估 AskNatureNet 有效性的构思案例研究表明，我们的工具能够有效地支持发散思维。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,6 +40,16 @@
       <description>&lt;p&gt;设计教育，仿生设计，知识理解，设计推理&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;仿生设计作为跨学科类比设计的一种重要形式，为设计领域提供了许多来自生物学的创新方案。为了使设计专业学生与新手设计师等能够高效地掌握仿生设计技巧，提升他们的跨学科创新能力，我们提出了一种由大语言模型驱动的仿生设计教育方法。该方法基于一个结构化的仿生设计案例知识库，通过交互式问答帮助学习者理解结构化的仿生设计案例，并指导他们推理出新的设计方案。此外，该方法还包括对学习者设计方案的对比评估，评估基于已有案例进行，旨在进一步提升学习者的设计水平。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AskNatureNet：基于仿生设计知识的发散思维工具</title>
+      <link>https://zju-d3.github.io/project/asknaturenet/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/asknaturenet/</guid>
+      <description>&lt;p&gt;Bio-inspired design， Semantic network， Divergent thinking， Design creativity， Design ideation&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;发散性思维是在设计中探索多种可能的解决方案的过程，是在设计的早期阶段打破僵化、拓展设计思维的关键。类比设计促进发散思维，通过研究解决类似问题的解决方案，并利用这些知识在新的和不熟悉的情况下进行推理和解决问题。仿生设计是类比设计的一种形式，其知识为类比提供了多样化的来源，使其成为发散思维的潜在来源。在这项工作中，我们提出了一种新的方法，从编码、检索和映射三个后续阶段支持发散思维。具体地说，通过使用大语言模型(LLM)从仿生设计知识库中提取关键信息，将生物知识以三重形式编码。创建的三元组在语义网络中实现，以促进双向检索模式：问题驱动和解决方案驱动，以及针对发散思维的映射。该映射算法遵循发散思维的范式，分三步基于属性计算语义网络中节点间的语义相似度。该方法被实现为 AskNatureNet 1 工具，它通过在可视化的交互语义网络中检索和映射知识来支持发散思维。一个评估 AskNatureNet 有效性的构思案例研究表明，我们的工具能够有效地支持发散思维。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -188,6 +188,40 @@
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Task-Decomposed AI-Aided Approach for Generative Conceptual Design</title>
+      <link>https://zju-d3.github.io/publication/conference-dtm2023wbh/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-dtm2023wbh/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A KNOWLEDGE-BASED IDEATION APPROACH FOR BIO-INSPIRED DESIGN</title>
+      <link>https://zju-d3.github.io/publication/journal-iced23czb/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/journal-iced23czb/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>

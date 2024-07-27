@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tingting Zhou | 浙江大学-陈柳青-D3Lab</title>
+    <link>https://zju-d3.github.io/author/tingting-zhou/</link>
+      <atom:link href="https://zju-d3.github.io/author/tingting-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tingting Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
+      <title>Tingting Zhou</title>
+      <link>https://zju-d3.github.io/author/tingting-zhou/</link>
+    </image>
+    
+    <item>
+      <title>A Design and User Experience Evaluation of 3D Product Information in XR Shopping Application</title>
+      <link>https://zju-d3.github.io/publication/conference-dtm2023qkt/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-dtm2023qkt/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

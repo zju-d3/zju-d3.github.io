@@ -6,15 +6,13 @@
   <url>
     <loc>https://zju-d3.github.io/project/asknaturegpt/</loc><lastmod>2024-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://zju-d3.github.io/project/asknaturekg/</loc><lastmod>2024-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://zju-d3.github.io/project/aisee/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/project/asknaturenet/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/project/emoeden/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/project/vrllms/</loc><lastmod>2024-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/project/asknaturekg/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/project/autospark/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -34,6 +32,8 @@
   <url>
     <loc>https://zju-d3.github.io/project/artificial_intelligence_approach/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://zju-d3.github.io/project/asknaturenet/</loc><lastmod>2024-04-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://zju-d3.github.io/project/project_3/</loc><lastmod>2022-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/project/project_6/</loc><lastmod>2022-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -48,11 +48,13 @@
   <url>
     <loc>https://zju-d3.github.io/project/project_1/</loc><lastmod>2022-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://zju-d3.github.io/post/24-07-20/</loc><lastmod>2024-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/</loc><lastmod>2024-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/post/</loc><lastmod>2024-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://zju-d3.github.io/post/24-06-05-summercamp/</loc><lastmod>2024-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/</loc><lastmod>2024-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/post/</loc><lastmod>2024-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/post/24-06-01/</loc><lastmod>2024-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -61,8 +63,6 @@
     <loc>https://zju-d3.github.io/tag/llms/</loc><lastmod>2024-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/tags/</loc><lastmod>2024-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/</loc><lastmod>2024-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/project/</loc><lastmod>2024-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -98,6 +98,8 @@
   <url>
     <loc>https://zju-d3.github.io/author/%E5%A4%8F%E5%A4%9A%E4%B8%BA/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://zju-d3.github.io/author/%E5%A7%9C%E6%98%AD%E5%90%9B/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://zju-d3.github.io/author/%E5%AE%8B%E4%BA%9A%E8%BD%A9/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/author/%E6%99%AF%E5%8D%83%E8%8A%9D/</loc><lastmod>2024-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -122,6 +124,42 @@
   <url>
     <loc>https://zju-d3.github.io/post/23-12-16-ictd/</loc><lastmod>2023-12-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://zju-d3.github.io/publication-type/1/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/publication/conference-dtm2023qkt/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/publication/conference-dtm2023wbh/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/tag/best-paper-award/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/boheng-wang/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/haoyu-zuo/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/lingyun-sun/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/peter-childs/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/tag/publication/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/publication_types/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/tianshu-dong/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/ting-zhang/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/tingting-zhou/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/yankun-zhen/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/yuan-yin/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/yumou-zhang/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/%E8%A6%83%E6%A5%B7%E6%A1%90/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/publication/</loc><lastmod>2023-11-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://zju-d3.github.io/post/23-11-20-fitee/</loc><lastmod>2023-11-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/post/23-10-24-hci/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -136,6 +174,14 @@
   <url>
     <loc>https://zju-d3.github.io/post/23-07-20-jianxiluo/</loc><lastmod>2023-07-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://zju-d3.github.io/publication-type/2/</loc><lastmod>2023-06-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/publication/journal-iced23czb/</loc><lastmod>2023-06-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/qi-long/</loc><lastmod>2023-06-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://zju-d3.github.io/author/zhaojun-jiang/</loc><lastmod>2023-06-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://zju-d3.github.io/post/23-06-05-summercamp/</loc><lastmod>2023-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/post/23-06-04-sci/</loc><lastmod>2023-06-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -148,19 +194,9 @@
   <url>
     <loc>https://zju-d3.github.io/post/23-04-09-team/</loc><lastmod>2023-04-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://zju-d3.github.io/publication-type/2/</loc><lastmod>2023-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://zju-d3.github.io/publication/journal-article-4/</loc><lastmod>2023-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/author/ji-han/</loc><lastmod>2023-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/author/lingyun-sun/</loc><lastmod>2023-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/tag/publication/</loc><lastmod>2023-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/publication_types/</loc><lastmod>2023-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/publication/</loc><lastmod>2023-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/author/et-al/</loc><lastmod>2023-03-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -172,8 +208,6 @@
   <url>
     <loc>https://zju-d3.github.io/publication/conference-paper-1/</loc><lastmod>2023-03-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://zju-d3.github.io/author/boheng-wang/</loc><lastmod>2023-03-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://zju-d3.github.io/author/yunhuai-zhu/</loc><lastmod>2023-03-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/post/23-03-jcise/</loc><lastmod>2023-03-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -181,8 +215,6 @@
     <loc>https://zju-d3.github.io/post/23-02-10/</loc><lastmod>2023-02-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/post/23-02-06/</loc><lastmod>2023-02-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/publication-type/1/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/publication/conference-paper-2/</loc><lastmod>2023-01-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -207,8 +239,6 @@
     <loc>https://zju-d3.github.io/author/liu-huiting/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/author/yin-yuan/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/author/%E8%A6%83%E6%A5%B7%E6%A1%90/</loc><lastmod>2022-11-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/tag/bio-inspired-design/</loc><lastmod>2022-10-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -242,13 +272,9 @@
   <url>
     <loc>https://zju-d3.github.io/author/pan-wang/</loc><lastmod>2022-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://zju-d3.github.io/author/peter-childs/</loc><lastmod>2022-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://zju-d3.github.io/author/pingfei-jiang/</loc><lastmod>2022-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/publication/journal-article-3/</loc><lastmod>2022-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://zju-d3.github.io/author/yuan-yin/</loc><lastmod>2022-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://zju-d3.github.io/contact/</loc><changefreq>weekly</changefreq></url>
   <url>

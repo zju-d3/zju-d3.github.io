@@ -5,12 +5,63 @@
     <link>https://zju-d3.github.io/publication/</link>
       <atom:link href="https://zju-d3.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>论文</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>论文</title>
       <link>https://zju-d3.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A Design and User Experience Evaluation of 3D Product Information in XR Shopping Application</title>
+      <link>https://zju-d3.github.io/publication/conference-dtm2023qkt/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-dtm2023qkt/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Task-Decomposed AI-Aided Approach for Generative Conceptual Design</title>
+      <link>https://zju-d3.github.io/publication/conference-dtm2023wbh/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-dtm2023wbh/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A KNOWLEDGE-BASED IDEATION APPROACH FOR BIO-INSPIRED DESIGN</title>
+      <link>https://zju-d3.github.io/publication/journal-iced23czb/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/journal-iced23czb/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>A Comparison Study of Human and Machine Generated Creativity</title>

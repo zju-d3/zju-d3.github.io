@@ -5,7 +5,7 @@
     <link>https://zju-d3.github.io/</link>
       <atom:link href="https://zju-d3.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>浙江大学-陈柳青-D3Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>浙江大学-陈柳青-D3Lab</title>
@@ -23,16 +23,6 @@
     </item>
     
     <item>
-      <title>AskNatureKG：基于知识图谱用于仿生设计的知识检索和知识推理方法</title>
-      <link>https://zju-d3.github.io/project/asknaturekg/</link>
-      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/project/asknaturekg/</guid>
-      <description>&lt;p&gt;Bio-inspired design; knowledge graph; knowledge retrieval; knowledge reasoning; link prediction&lt;/p&gt;
-&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
-&lt;p&gt;仿生设计(BID)是一种从生物系统中提取原理来解决复杂现实世界问题的方法。虽然各种基于知识的工具已经为仿生设计提供了服务，但仿生设计中还没有探索知识图谱的检索和推理能力。我们提出了一种新的基于知识图谱的仿生设计方法，利用知识图谱的能力来支持仿生设计。在该方法中，定义了一个全面的本体，并将其应用于构建特定于仿生设计的知识图谱，从而实现了对丰富多样的生物知识的高效表示。该知识图谱通过高效的知识检索和推理来支持仿生设计。其中仿生设计中的检索是通过寻找生物系统和相关设计应用之间的潜在联系来完成的。而仿生设计的推理由链接预测模型支持，该模型遵循从生物系统到设计应用的映射设计过程。通过两个案例研究证明了该方法的有效性。第一个案例表明，我们的方法在检索相关生物学知识方面优于其他基准测试，第二个案例展示了链接预测模型如何帮助生成相关和鼓舞人心的设计想法。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>AISee：一款帮助视障和低视力用户理解社交网络服务上图片的工具</title>
       <link>https://zju-d3.github.io/project/aisee/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
@@ -40,16 +30,6 @@
       <description>&lt;p&gt;图像理解辅助 社交网络服务 视障和低视力 多模态大模型&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;视障或低视力（BLV）个体经常在访问社交网络服务（SNS）上的图片时面临挑战，这阻碍了他们积极参与社交活动。现有工具提供的图片描述质量较低且未能满足 BLV 个体在不同情境下的多样化信息需求，从而妨碍了他们对图片内容的理解。为了解决这些问题，我们与 10 位 BLV 个体进行了形成性研究，深入探讨了他们在不同图片类别和情境下的具体信息需求，以及他们对图片描述和交互的偏好。基于这些发现，我们开发了 AISee，这是一款由人工智能驱动的工具，集成了三个功能：基于上下文和偏好的图片描述、优先关键点的图片探索和开放式视觉问题回答，以帮助 BLV 用户有效且轻松地理解 SNS 图片。管道评估展示了 AISee 在生成类人的图片描述、提供适当的情感分析以及根据 BLV 用户的兴趣优先考虑对象方面的有效性。用户研究进一步揭示 AISee 能够显著增强 BLV 用户对 SNS 图片的理解并收到了用户的积极评价。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>AskNatureNet：基于仿生设计知识的发散思维工具</title>
-      <link>https://zju-d3.github.io/project/asknaturenet/</link>
-      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/project/asknaturenet/</guid>
-      <description>&lt;p&gt;Bio-inspired design， Semantic network， Divergent thinking， Design creativity， Design ideation&lt;/p&gt;
-&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
-&lt;p&gt;发散性思维是在设计中探索多种可能的解决方案的过程，是在设计的早期阶段打破僵化、拓展设计思维的关键。类比设计促进发散思维，通过研究解决类似问题的解决方案，并利用这些知识在新的和不熟悉的情况下进行推理和解决问题。仿生设计是类比设计的一种形式，其知识为类比提供了多样化的来源，使其成为发散思维的潜在来源。在这项工作中，我们提出了一种新的方法，从编码、检索和映射三个后续阶段支持发散思维。具体地说，通过使用大语言模型(LLM)从仿生设计知识库中提取关键信息，将生物知识以三重形式编码。创建的三元组在语义网络中实现，以促进双向检索模式：问题驱动和解决方案驱动，以及针对发散思维的映射。该映射算法遵循发散思维的范式，分三步基于属性计算语义网络中节点间的语义相似度。该方法被实现为 AskNatureNet 1 工具，它通过在可视化的交互语义网络中检索和映射知识来支持发散思维。一个评估 AskNatureNet 有效性的构思案例研究表明，我们的工具能够有效地支持发散思维。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -70,6 +50,16 @@
       <description>&lt;p&gt;Virtual Reality, Text Input, Text Prediction, Large Language Modeling&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;在虚拟现实中的文本输入常常面临效率和任务负荷的挑战。先前的研究探索了各种解决方案，包括专门的键盘布局、追踪的物理设备和无需手部操作的交互方式。然而，这些努力往往未能复制现实世界文本输入的效率，或引入了额外的空间和设备限制。一种可行的策略是寻求某种辅助性的文本输入方式，通过减少用户在文本输入过程中的实际击键次数来提升用户的文本输入效率和体验。本研究利用大型语言模型（LLMs）在上下文感知和文本预测方面的广泛能力，通过减少用户的手动击键来提高文本输入效率。根据英文文本自有的上下文依赖、语法关联等特性，本研究介绍了三种 LLM 辅助的文本输入方法：简化拼写、内容预测和关键词到句子生成。这三种方法分别与英文文本在单词、语法结构和句子层面的上下文可预测性相一致，且契合文本输入过程中的语言心智。我们在基于 Oculus 的 VR 原型上进行了用户实验以测试方案的有效性，实验场景涵盖了包括文本转录、对话和写作的多种文本输入任务。根据实验结果，三种辅助输入方法分别展示了 17.1%、43%和 42.9%的手动击键减少，转化为 16.6%、56.9%和 64.7%的效率提升。与手动打字相比，这些方法并没有增加手动更正的次数，同时显著减少了身体、心理和时间负荷，并提高了总体可用性。长期观察进一步揭示了用户使用这些 LLM 辅助方法的策略，表明用户对这些方法的熟练程度可以加强它们对文本输入效率的积极影响。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AskNatureKG：基于知识图谱用于仿生设计的知识检索和知识推理方法</title>
+      <link>https://zju-d3.github.io/project/asknaturekg/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/asknaturekg/</guid>
+      <description>&lt;p&gt;Bio-inspired design; knowledge graph; knowledge retrieval; knowledge reasoning; link prediction&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;仿生设计(BID)是一种从生物系统中提取原理来解决复杂现实世界问题的方法。虽然各种基于知识的工具已经为仿生设计提供了服务，但仿生设计中还没有探索知识图谱的检索和推理能力。我们提出了一种新的基于知识图谱的仿生设计方法，利用知识图谱的能力来支持仿生设计。在该方法中，定义了一个全面的本体，并将其应用于构建特定于仿生设计的知识图谱，从而实现了对丰富多样的生物知识的高效表示。该知识图谱通过高效的知识检索和推理来支持仿生设计。其中仿生设计中的检索是通过寻找生物系统和相关设计应用之间的潜在联系来完成的。而仿生设计的推理由链接预测模型支持，该模型遵循从生物系统到设计应用的映射设计过程。通过两个案例研究证明了该方法的有效性。第一个案例表明，我们的方法在检索相关生物学知识方面优于其他基准测试，第二个案例展示了链接预测模型如何帮助生成相关和鼓舞人心的设计想法。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -198,6 +188,16 @@
 &lt;p&gt;在研究中使用了专门为探索设计组合创意而制作的数据集，该数据集包括 200 种基于组合创意的产品，包括它们的名称、图像和描述。这些产品精心挑选自著名设计竞赛的获奖作品。通过对这些样本的分析，研究识别出每个产品的基础和添加元素，并验证了这些元素的准确性。研究表明，最有效的方法在识别基础元素方面达到了 87.5%的准确率，而在添加元素方面达到了 80%的准确率。&lt;/p&gt;
 &lt;p&gt;此外，研究还对算法中的各个模块进行了单独分析，以评估它们在解释组合创意方面的表现。这包括使用图像识别模块来解释基础元素，以及使用实体识别和关系提取模块来从文本中提取和验证添加元素。研究中还探讨了算法在没有图像输入的情况下的表现，以及图像在解释组合创意中的作用。&lt;/p&gt;
 &lt;p&gt;总体来说，这项研究通过提供一种新的计算方法来解释组合创意设计，填补了数据驱动设计周期中的一个关键空白，增强了设计过程中创意过程的理解。这不仅有助于管理和重用设计知识，加速未来设计的产生，也为设计师提供了评估和细化他们的创意方法的工具。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AskNatureNet：基于仿生设计知识的发散思维工具</title>
+      <link>https://zju-d3.github.io/project/asknaturenet/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/project/asknaturenet/</guid>
+      <description>&lt;p&gt;Bio-inspired design， Semantic network， Divergent thinking， Design creativity， Design ideation&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;发散性思维是在设计中探索多种可能的解决方案的过程，是在设计的早期阶段打破僵化、拓展设计思维的关键。类比设计促进发散思维，通过研究解决类似问题的解决方案，并利用这些知识在新的和不熟悉的情况下进行推理和解决问题。仿生设计是类比设计的一种形式，其知识为类比提供了多样化的来源，使其成为发散思维的潜在来源。在这项工作中，我们提出了一种新的方法，从编码、检索和映射三个后续阶段支持发散思维。具体地说，通过使用大语言模型(LLM)从仿生设计知识库中提取关键信息，将生物知识以三重形式编码。创建的三元组在语义网络中实现，以促进双向检索模式：问题驱动和解决方案驱动，以及针对发散思维的映射。该映射算法遵循发散思维的范式，分三步基于属性计算语义网络中节点间的语义相似度。该方法被实现为 AskNatureNet 1 工具，它通过在可视化的交互语义网络中检索和映射知识来支持发散思维。一个评估 AskNatureNet 有效性的构思案例研究表明，我们的工具能够有效地支持发散思维。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -488,6 +488,18 @@
     </item>
     
     <item>
+      <title>2024年7月 两篇高水平论文获得接收</title>
+      <link>https://zju-d3.github.io/post/24-07-20/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/24-07-20/</guid>
+      <description>&lt;p&gt;由 D3 Lab 实验室主导研究的两个高水平论文成果最近分别获得接收，具体如下&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;论文“AutoSpark: Supporting Automobile Appearance Design Ideation with Kansei Engineering and Generative AI”发表在人机交互顶会 UIST 2024（CCF-A 类），主要贡献者：景千芝，陈柳青。合作单位：吉利汽车。&lt;/li&gt;
+&lt;li&gt;论文“An artificial intelligence approach for interpreting creative combinational designs”发表在期刊《Journal of Engineering Design》（SCI 二区），主要贡献者：陈柳青，肖树。合作单位：University of Exeter。论文链接：&lt;a href=&#34;https://doi.org/10.1080/09544828.2024.2377068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/09544828.2024.2377068&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
       <title>D3 Lab 2024暑期夏令营通知</title>
       <link>https://zju-d3.github.io/post/24-06-05-summercamp/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
@@ -663,6 +675,40 @@
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Design and User Experience Evaluation of 3D Product Information in XR Shopping Application</title>
+      <link>https://zju-d3.github.io/publication/conference-dtm2023qkt/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-dtm2023qkt/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Task-Decomposed AI-Aided Approach for Generative Conceptual Design</title>
+      <link>https://zju-d3.github.io/publication/conference-dtm2023wbh/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/conference-dtm2023wbh/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
@@ -910,6 +956,23 @@
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>A KNOWLEDGE-BASED IDEATION APPROACH FOR BIO-INSPIRED DESIGN</title>
+      <link>https://zju-d3.github.io/publication/journal-iced23czb/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/publication/journal-iced23czb/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>

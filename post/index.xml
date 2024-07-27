@@ -5,12 +5,24 @@
     <link>https://zju-d3.github.io/post/</link>
       <atom:link href="https://zju-d3.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>消息</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zju-d3.github.io/media/logo_huf4feb8c908596d56555fe97c8f02ec1a_564626_300x300_fit_lanczos_3.png</url>
       <title>消息</title>
       <link>https://zju-d3.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>2024年7月 两篇高水平论文获得接收</title>
+      <link>https://zju-d3.github.io/post/24-07-20/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/24-07-20/</guid>
+      <description>&lt;p&gt;由 D3 Lab 实验室主导研究的两个高水平论文成果最近分别获得接收，具体如下&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;论文“AutoSpark: Supporting Automobile Appearance Design Ideation with Kansei Engineering and Generative AI”发表在人机交互顶会 UIST 2024（CCF-A 类），主要贡献者：景千芝，陈柳青。合作单位：吉利汽车。&lt;/li&gt;
+&lt;li&gt;论文“An artificial intelligence approach for interpreting creative combinational designs”发表在期刊《Journal of Engineering Design》（SCI 二区），主要贡献者：陈柳青，肖树。合作单位：University of Exeter。论文链接：&lt;a href=&#34;https://doi.org/10.1080/09544828.2024.2377068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/09544828.2024.2377068&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
     
     <item>
       <title>D3 Lab 2024暑期夏令营通知</title>
