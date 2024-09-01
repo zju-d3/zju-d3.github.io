@@ -65,10 +65,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/post/24-08-30/2_hu107e220b01ca66f2e8b9d2986cf335d5_43203_55f9bc41616ec920ee9cb3d1ce457d99.webp 400w,
+               /media/post/24-08-30/2_hu107e220b01ca66f2e8b9d2986cf335d5_43203_34d1b7f45362b0010a5c2cd71295bbe9.webp 400w,
                /media/post/24-08-30/2_hu107e220b01ca66f2e8b9d2986cf335d5_43203_7d6b0027a640d6fdb14565d2f33de838.webp 760w,
                /media/post/24-08-30/2_hu107e220b01ca66f2e8b9d2986cf335d5_43203_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://zju-d3.github.io/media/post/24-08-30/2_hu107e220b01ca66f2e8b9d2986cf335d5_43203_55f9bc41616ec920ee9cb3d1ce457d99.webp&#34;
+               src=&#34;https://zju-d3.github.io/media/post/24-08-30/2_hu107e220b01ca66f2e8b9d2986cf335d5_43203_34d1b7f45362b0010a5c2cd71295bbe9.webp&#34;
                width=&#34;412&#34;
                height=&#34;223&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -76,21 +76,9 @@
     </item>
     
     <item>
-      <title>2024年7月 两篇高水平论文获得接收</title>
-      <link>https://zju-d3.github.io/post/24-07-20/</link>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://zju-d3.github.io/post/24-07-20/</guid>
-      <description>&lt;p&gt;由 D3 Lab 实验室主导研究的两个高水平论文成果最近分别获得接收，具体如下&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;论文“AutoSpark: Supporting Automobile Appearance Design Ideation with Kansei Engineering and Generative AI”发表在人机交互顶会 UIST 2024（CCF-A 类），主要贡献者：景千芝，陈柳青。合作单位：吉利汽车。&lt;/li&gt;
-&lt;li&gt;论文“An artificial intelligence approach for interpreting creative combinational designs”发表在期刊《Journal of Engineering Design》（SCI 二区），主要贡献者：陈柳青，肖树。合作单位：University of Exeter。论文链接：&lt;a href=&#34;https://doi.org/10.1080/09544828.2024.2377068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/09544828.2024.2377068&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</description>
-    </item>
-    
-    <item>
       <title>2024年8月 三篇论文发表在IDETC/CIE 2024</title>
       <link>https://zju-d3.github.io/post/24-08-20/</link>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://zju-d3.github.io/post/24-08-20/</guid>
       <description>&lt;p&gt;由 D3 Lab 实验室主导研究的两个高水平论文成果最近分别获得接收，具体如下&lt;/p&gt;
 &lt;p&gt;由 D3 Lab 实验室主导研究的三篇论文成果最近获得了设计工程领域顶会 IDETC/CIE 2024 的接收，具体如下：&lt;/p&gt;
@@ -104,6 +92,18 @@
 &lt;li&gt;
 &lt;p&gt;论文题目：“TRIZ-GPT: An LLM-Augmented Method For Problem-Solving”，主要贡献者：宋亚轩，陈柳青。合作单位：帝国理工学院。&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024年7月 两篇高水平论文获得接收</title>
+      <link>https://zju-d3.github.io/post/24-07-20/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://zju-d3.github.io/post/24-07-20/</guid>
+      <description>&lt;p&gt;由 D3 Lab 实验室主导研究的两个高水平论文成果最近分别获得接收，具体如下&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;论文“AutoSpark: Supporting Automobile Appearance Design Ideation with Kansei Engineering and Generative AI”发表在人机交互顶会 UIST 2024（CCF-A 类），主要贡献者：景千芝，陈柳青。合作单位：吉利汽车。&lt;/li&gt;
+&lt;li&gt;论文“An artificial intelligence approach for interpreting creative combinational designs”发表在期刊《Journal of Engineering Design》（SCI 二区），主要贡献者：陈柳青，肖树。合作单位：University of Exeter。论文链接：&lt;a href=&#34;https://doi.org/10.1080/09544828.2024.2377068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/09544828.2024.2377068&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</description>
     </item>
     
